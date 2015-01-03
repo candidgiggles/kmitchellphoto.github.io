@@ -3,9 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi, I’m Kimberly.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This photoblog is a place to share some of my professional and personal photography work. I feel very blessed to be surrounded by wonderful family, friends, and clients and want to share it all with you! Please enjoy images from my business, Candid Giggles Photography, as well as images of my own kids and life happenings!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Candid Giggles Photography represents fun, natural, and lifestyle photography and specializes in capturing amazing images of children, families, high school seniors, and birthday parties in the Chicago south suburbs. Recently I have donated to my photography services to many local schools and non-profit organizations, including the Emerging Young Leaders of Twenty Pearls Foundation, Inc., Girl Scouts of America Troop 60380, Music for Minors HFG, and the Infant Welfare Society Flossmoor Jrs.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Please email me at kimberly@candidgiggles.com if you have questions about booking a session. I can also be found on Facebook.
+
+Thank you!
