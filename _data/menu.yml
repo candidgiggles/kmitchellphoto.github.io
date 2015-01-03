@@ -1,0 +1,20 @@
+- name: Home
+  path: /
+
+- name: About
+  path: /about
+
+- name: Session Information
+  path: /session-info
+
+- name: Senior Sessions
+  path: /senior-sessions
+
+- name: Family Sessions
+  path: /family-sessions
+
+- name: Contact
+  path: /contact
+
+- name: Portfolio
+  path: /portfolio
