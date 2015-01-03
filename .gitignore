@@ -3,8 +3,10 @@ _site
 .jekyll
 .bundle
 .sass-cache
+.idea
 Gemfile
 Gemfile.lock
 node_modules
 package.json
 vendor
+Main_Oyster
