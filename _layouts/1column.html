@@ -1,0 +1,98 @@
+---
+layout: default
+---
+<div class="main_wrapper">
+    <div class="content_wrapper">
+        <div class="container">
+            <div class="content_block row no-sidebar">
+                <div class="fl-container ">
+                    <div class="row">
+                        <div class="posts-block ">
+                            <div class="contentarea">
+                                <div class="row">
+                                    <div class="span12 first-module module_number_1 module_cont pb0 module_portfolio">
+                                        <ul class="optionset" data-option-key="filter">
+                                            <li class="selected"><a href="#filter" data-option-value="*">All Works</a></li>
+                                            <li><a data-option-value=".advertisement" href="#filter" title="View all post filed under advertisement">Advertisement</a></li>
+                                            <li><a data-option-value=".cities" href="#filter" title="View all post filed under cities">Cities</a></li>
+                                            <li><a data-option-value=".fashion" href="#filter" title="View all post filed under fashion">Fashion</a></li>
+                                            <li><a data-option-value=".nature" href="#filter" title="View all post filed under nature">Nature</a></li>
+                                            <li><a data-option-value=".portrait" href="#filter" title="View all post filed under portrait">Portrait</a></li>
+                                            <li><a data-option-value=".stuff" href="#filter" title="View all post filed under stuff">Stuff</a></li>
+                                        </ul>
+
+                                        <div class="portfolio_block image-grid columns1 portf_columns">
+                                            <div class="stuff portrait element row portfolio_item">
+                                                <div class="portfolio_item_img gallery_item_wrapper span6">
+                                                    <img src="{{ page.img1 }}" alt="">
+                                                </div>
+                                                <div class="portfolio_dscr span6">
+                                                    <div class="portfolio_dscr_top">
+                                                        <h3><a href="{{ page.link1 }}">{{ page.title1 }}</a></h3>
+                                                    </div>
+                                                    {{ page.post1 }}
+                                                    <br />
+                                                    <a class="shortcode_button btn_small btn_type5 reamdore" href="{{ page.link1 }}">Read more!</a>
+                                                </div>
+                                            </div>
+
+                                            <div class="stuff portrait element row portfolio_item">
+                                                <div class="portfolio_item_img gallery_item_wrapper span6">
+                                                    <img src="{{ page.img2 }}" alt="">
+                                                </div>
+                                                <div class="portfolio_dscr span6">
+                                                    <div class="portfolio_dscr_top">
+                                                        <h3><a href="{{ page.link2 }}">{{ page.title2 }}</a></h3>
+                                                    </div>
+                                                    {{ page.post2 }}
+                                                    <br />
+                                                    <a class="shortcode_button btn_small btn_type5 reamdore" href="{{ page.link2 }}">Read more!</a>
+                                                </div>
+                                            </div>
+
+                                            <div class="stuff portrait element row portfolio_item">
+                                                <div class="portfolio_item_img gallery_item_wrapper span6">
+                                                    <img src="{{ page.img3 }}" alt="">
+                                                </div>
+                                                <div class="portfolio_dscr span6">
+                                                    <div class="portfolio_dscr_top">
+                                                        <h3><a href="{{ page.link3 }}">{{ page.title3 }}</a></h3>
+                                                    </div>
+                                                    {{ page.post3 }}
+                                                    <br />
+                                                    <a class="shortcode_button btn_small btn_type5 reamdore" href="{{ page.link3 }}">Read more!</a>
+                                                </div>
+                                            </div>
+
+                                            <div class="clear"></div>
+                                        </div>
+
+                                    </div><!-- .module_cont -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- .main_wrapper -->
+
+<div class="content_bg"></div>
+<script type="text/javascript" src="{{ "/js/jquery-ui.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/modules.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/theme.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/jquery.isotope.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/sorting.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function($){
+        "use strict";
+        jQuery('.portfolio_title').each(function(){
+            jQuery(this).css('margin-top', -1*jQuery(this).height()/2+'px');
+        });
+
+        if (jQuery('.pagerblock').size() > 0) {
+            jQuery('.pagerblock').addClass('type_columns1');
+        }
+    });
+</script>
