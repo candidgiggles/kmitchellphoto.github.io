@@ -9,9 +9,31 @@
             <nav>
                 <div class="menu-main-menu-container">
                     <ul id="menu-main-menu" class="menu">
-                        {% for menu in site.data.menu %}
-                        <li><a href="{{ menu.path }}"><span>{{ menu.name }}</span></a></li>
-                        {% endfor %}
+                        <li class="menu-item-has-children">
+                            <a href="/session-info"><span>Session Information</span></a>
+                            <ul class="sub-menu">
+                                <li><a href="/senior-sessions"><span>Senior Sessions</span></a></li>
+                                <li><a href="/family-sessions"><span>Family Sessions</span></a></li>
+                                <li><a href="/event-photography"><span>Event Photography</span></a></li>
+                                <li><a href="/memory-year-book"><span>Memory Year Book</span></a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/contact"><span>Contact</span></a>
+                        </li>
+                        <li>
+                            <a href="/portfolio"><span>Portfolio</span></a>
+                        </li>
+                        <li>
+                            <a href="/blog"><span>Blog</span></a>
+                        </li>
+                        <li class="menu-item-has-children">
+                            <a href="/about"><span>About</span></a>
+                            <ul class="sub-menu">
+                                <li><a href="/client-testimonials"><span>Client Testimonials</span></a></li>
+                                <li><a href="/faq"><span>F.A.Q.</span></a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </nav>
