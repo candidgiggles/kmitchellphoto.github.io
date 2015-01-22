@@ -1,5 +1,4 @@
 ---
-layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
