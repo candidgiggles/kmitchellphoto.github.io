@@ -3,13 +3,11 @@ layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
-slide1: "/img/Website Galleries/Events/Alexis16-2.jpg"
+slide1: "/img/Website Galleries/Events/Teddy Bridal-7.jpg"
 alt1: Slide 1
 slide2: "/img/Website Galleries/Events/Alexis16-38.jpg"
 alt2: Slide 2
 slide3: "/img/Website Galleries/Events/NiaBirthday-82.jpg"
-
-
 ---
 Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered. 
 
