@@ -21,11 +21,13 @@ Let me do the shutter snapping while you enjoy your son or daughter’s most mem
 
 The “memory year book” is a 20 page book printed on professional lustre photo paper with binding that allows every page to lay flat. Your photos will be displayed beautifully with rich vibrant colors that will last a lifetime.
 
+##  $575
+($850 value)
+
 Includes:
 - Five hours of photography, which can be divided among multiple events 
 - One 20 page 8x10 custom designed photo book 
 - A shareable mobile app of selected photos
 - Private online gallery for purchasing prints a la carte 
 					
-Additional hours will be billed at $85/hour.
-A 50% deposit is required at booking.
+Additional hours will be billed at $85/hour. A 50% deposit is required at booking.
