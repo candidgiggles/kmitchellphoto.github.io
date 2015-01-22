@@ -16,6 +16,8 @@ camera: Canon X
 ---
 
 Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered. 
+> We loved with a love that was more than love
+
 
 
 ### Party Package- $275 ($350 Value)
@@ -43,8 +45,7 @@ Personalized Mobile App
 
 Digital File Collection
 
-
-_> "We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL_
+> _"We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL_
 
 
 
