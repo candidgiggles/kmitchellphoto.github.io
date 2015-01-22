@@ -3,11 +3,11 @@ layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
-slide1: "/img/Website Galleries/Events/Lauren&Co-12.jpg"
+slide1: "/img/Website Galleries/Events/Alexis16-2.jpg"
 alt1: Slide 1
 slide2: "/img/Website Galleries/Events/Alexis16-38.jpg"
 alt2: Slide 2
-slide3: "/img/Website Galleries/Events/Soiree-3.jpg"
+slide3: "/img/Website Galleries/Events/NiaBirthday-82.jpg"
 
 
 ---
