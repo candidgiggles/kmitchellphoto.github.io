@@ -9,12 +9,7 @@ slide2: /img/Aboutme2014.jpg
 alt2: Slide 3
 slide3: /img/Aboutme2014.jpg
 alt3: Slide 3
-credit: Kimberly
-category: Stuff
-time: 6 hours
-camera: Canon X
 ---
-
 ##  A special package for 8th graders and High School Seniors
 
 Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well. After the final event or session, we will bind all those memories together in a beautiful album that withstands everyday browsing.  Gift prints can be ordered a la carte for friends and family. 
