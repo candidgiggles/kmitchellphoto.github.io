@@ -1,26 +1,49 @@
 ---
 layout: fullpostinfo
 title: Event Photography
-permalink: /event-photography/
+permalink: "/event-photography/"
 published: true
-
-slide1: http://www.placehold.it/1365x910
+slide1: "http://www.placehold.it/1365x910"
 alt1: Slide 1
-
 slide2: /img/Aboutme2014.jpg
 alt2: Slide 3
-
 slide3: /img/Aboutme2014.jpg
 alt3: Slide 3
-
 credit: Kimberly
 category: Stuff
 time: 6 hours
 camera: Canon X
 ---
 
-This is my content.
+Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque metus, ullamcorper eget lectus quis, ultricies congue ipsum. Nulla dignissim neque orci, in dignissim tortor rhoncus at. Sed tempus lacus non turpis blandit, ut ultrices felis porttitor. Duis scelerisque, turpis quis facilisis eleifend, odio lectus convallis nulla, eu viverra odio erat et risus. Integer non massa at felis commodo luctus nec quis lacus. Integer condimentum nisl vel arcu accumsan, a rhoncus velit tristique. Etiam ultrices arcu erat, vitae aliquet nunc interdum at.
+### Party Package- $275 ($350 Value)
 
-Quisque molestie dui ut risus commodo ullamcorper. Proin posuere quis est a iaculis. Nulla ornare sed dolor a dictum. In sed magna in lacus pellentesque dignissim eu et tellus. Fusce blandit aliquet cursus. Vestibulum eu laoreet neque. Etiam ac urna rhoncus, vulputate orci id, pellentesque nisl.
+Event Coverage up to 4 hours
+
+Ten 4x6 Prints
+
+### Storybook Package- $450 ($600 Value)
+
+Event Coverage up to 4 hours
+
+8x10 Custom Photo Book
+
+Personalized Mobile App 
+
+20% off A la Carte Prices
+
+### Memory Package- $600 ($800 Value)
+
+Event Coverage up to 4 hours
+
+8x10 Custom Photo Book
+
+Personalized Mobile App 
+
+Digital File Collection</center>
+
+> "We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL 
+
+
+
