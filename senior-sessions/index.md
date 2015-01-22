@@ -1,26 +1,34 @@
 ---
 layout: fullpostinfo
 title: Senior Sessions
-permalink: /senior-sessions/
+permalink: "/senior-sessions/"
 published: true
-
-slide1: http://www.placehold.it/1365x910
+slide1: "http://www.placehold.it/1365x910"
 alt1: Slide 1
-
 slide2: /img/Aboutme2014.jpg
 alt2: Slide 3
-
 slide3: /img/Aboutme2014.jpg
 alt3: Slide 3
-
 credit: Kimberly
 category: Stuff
 time: 6 hours
 camera: Canon X
 ---
 
-This is my content.
+Senior sessions are designed for high school seniors who want to show off their accomplishments with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session. If you need graduation invitations, announcements, or thank you cards, a package can be customized to fit your needs. Ideally this session would take place the summer before the student’s senior year, however it can be scheduled at any time. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque metus, ullamcorper eget lectus quis, ultricies congue ipsum. Nulla dignissim neque orci, in dignissim tortor rhoncus at. Sed tempus lacus non turpis blandit, ut ultrices felis porttitor. Duis scelerisque, turpis quis facilisis eleifend, odio lectus convallis nulla, eu viverra odio erat et risus. Integer non massa at felis commodo luctus nec quis lacus. Integer condimentum nisl vel arcu accumsan, a rhoncus velit tristique. Etiam ultrices arcu erat, vitae aliquet nunc interdum at.
+###Senior Session
+$85 for a one hour session at the location of your choice
 
-Quisque molestie dui ut risus commodo ullamcorper. Proin posuere quis est a iaculis. Nulla ornare sed dolor a dictum. In sed magna in lacus pellentesque dignissim eu et tellus. Fusce blandit aliquet cursus. Vestibulum eu laoreet neque. Etiam ac urna rhoncus, vulputate orci id, pellentesque nisl.
+### Cap & Gown Session
+$225
+Includes:
+- One hour session at the location of your choice
+- Up to 2 outfit changes (optional) 
+- 8x10 Print
+- 25-5×7 flat graduation announcements or invitations
+- Private online gallery for purchasing prints a la carte
+
+Requires a $100 deposit
+
+
