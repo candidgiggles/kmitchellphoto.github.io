@@ -5,7 +5,7 @@ permalink: "/memory-year-book/"
 published: true
 slide1: "http://www.placehold.it/1365x910"
 alt1: Slide 1
-slide2: /img/Aboutme2014.jpg
+slide2: "/homepage_images/Senior_2.jpg"
 alt2: Slide 3
 slide3: /img/Aboutme2014.jpg
 alt3: Slide 3
