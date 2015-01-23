@@ -1,26 +1,28 @@
 ---
 layout: fullpostinfo
 title: Memory Year Book
-permalink: /memory-year-book/
+permalink: "/memory-year-book/"
 published: true
-
-slide1: http://www.placehold.it/1365x910
+slide1: "http://www.placehold.it/1365x910"
 alt1: Slide 1
-
-slide2: /img/Aboutme2014.jpg
+slide2: /homepage_images/Senior_2.jpg
 alt2: Slide 3
-
 slide3: /img/Aboutme2014.jpg
 alt3: Slide 3
-
-credit: Kimberly
-category: Stuff
-time: 6 hours
-camera: Canon X
 ---
+##  A special package for 8th graders and High School Seniors
 
-This is my content.
+Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well. After the final event or session, we will bind all those memories together in a beautiful album that withstands everyday browsing.  Gift prints can be ordered a la carte for friends and family. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas neque metus, ullamcorper eget lectus quis, ultricies congue ipsum. Nulla dignissim neque orci, in dignissim tortor rhoncus at. Sed tempus lacus non turpis blandit, ut ultrices felis porttitor. Duis scelerisque, turpis quis facilisis eleifend, odio lectus convallis nulla, eu viverra odio erat et risus. Integer non massa at felis commodo luctus nec quis lacus. Integer condimentum nisl vel arcu accumsan, a rhoncus velit tristique. Etiam ultrices arcu erat, vitae aliquet nunc interdum at.
+The “memory year book” is a 20 page book printed on professional lustre photo paper with binding that allows every page to lay flat. Your photos will be displayed beautifully with rich vibrant colors that will last a lifetime.
 
-Quisque molestie dui ut risus commodo ullamcorper. Proin posuere quis est a iaculis. Nulla ornare sed dolor a dictum. In sed magna in lacus pellentesque dignissim eu et tellus. Fusce blandit aliquet cursus. Vestibulum eu laoreet neque. Etiam ac urna rhoncus, vulputate orci id, pellentesque nisl.
+##  $575
+($850 value)
+
+Includes:
+- Five hours of photography, which can be divided among multiple events 
+- One 20 page 8x10 custom designed photo book 
+- A shareable mobile app of selected photos
+- Private online gallery for purchasing prints a la carte 
+					
+Additional hours will be billed at $85/hour. A 50% deposit is required at booking.
