@@ -3,7 +3,7 @@ layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
-slide1: "/homepage_images/Events.jpg"
+slide1: /homepage_images/Events.jpg
 alt1: Slide 1
 slide2: "/event-photography/Event1.jpg"
 alt2: Slide 2
@@ -17,32 +17,25 @@ alt5: Slide 5
 
 Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered. 
 
-### Party Package- 
+### Party Package 
 $275 ($350 Value)
 Event Coverage up to 4 hours
-
 Ten 4x6 Prints
 
 
-### Storybook Package-
+### Storybook Package
 $450 ($600 Value)
 Event Coverage up to 4 hours
-
 8x10 Custom Photo Book
-
 Personalized Mobile App 
-
 20% off A la Carte Prices
 
 
-### Memory Package-
+### Memory Package
 $600 ($800 Value)
 Event Coverage up to 4 hours
-
 8x10 Custom Photo Book
-
 Personalized Mobile App 
-
 Digital File Collection
 
 
