@@ -3,15 +3,15 @@ layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
-slide1: "/img/Website Galleries/Events/Teddy Bridal-7.jpg"
+slide1: "/homepage_images/Events.jpg"
 alt1: Slide 1
-slide2: "/img/Website Galleries/Events/Alexis16-38.jpg"
+slide2: "/event-photography/Event1.jpg"
 alt2: Slide 2
-slide3: "/img/Website Galleries/Events/NiaBirthday-82.jpg"
+slide3: "/event-photography/Event2.jpg"
 alt3: Slide 3
-slide4: "/img/Website Galleries/Events/Engagement Party-34.jpg"
+slide4: "/event-photography/Event3.jpg"
 alt4: Slide 4
-slide5: "/img/Website Galleries/Events/Engagement Party-8.jpg"
+slide5: "/event-photography/Event4.jpg"
 alt5: Slide 5
 ---
 
