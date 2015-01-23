@@ -11,7 +11,7 @@ slide3: "/homepage_images/Senior.jpg"
 alt3: Slide 3
 slide4: "/senior-sessions/Senior1.jpg"
 alt4: Slide 4
-slide5:/senior-sessions/Senior5.jpg
+slide5: "/senior-sessions/Senior5.jpg"
 alt5: Slide 5
 ---
 
