@@ -9,7 +9,7 @@ slide2: "/memory-year-book/Memory2.jpg"
 alt2: Slide 3
 slide3: "/memory-year-book/Memory3.jpg"
 alt3: Slide 3
-slide4: "/memory-year-book/Memory4.jpg"
+slide4: "/memory-year-book/Memory5.jpg"
 alt4: Slide 4
 slide5: "/memory-year-book/Memory1.jpg"
 alt5: Slide 5
