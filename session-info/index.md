@@ -10,7 +10,7 @@ post1: Family Sessions are 60 minute sessions held at the location of your choic
 link1: /family-sessions/
 
 title2: Senior Sessions
-img2: /homepage_images/Senior.jpg
+img2: /senior-sessions/Senior1.jpg
 post2: Senior sessions are designed for high school seniors who want to show off their accomplishments with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session.
 link2: /senior-sessions/
 
