@@ -18,4 +18,9 @@ title3: Event Photography
 img3: /img/Website Galleries/Events/Lauren&Co-12.jpg
 post3: Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered.
 link3: /event-photography/
+
+title4: Memory Year Book
+img4: /img/Website Galleries/Events/Lauren&Co-12.jpg
+post4: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
+link4: /memory-year-book/
 ---
