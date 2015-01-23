@@ -24,6 +24,8 @@ The “memory year book” is a 20 page book printed on professional lustre phot
 ##  $575
 ($850 value)
 
+![Memory5](//memory-year-book/Memory5.jpg)
+
 Includes:
 - Five hours of photography, which can be divided among multiple events 
 - One 20 page 8x10 custom designed photo book 
