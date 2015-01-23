@@ -3,7 +3,7 @@ layout: fullpostinfo
 title: Memory Year Book
 permalink: "/memory-year-book/"
 published: true
-slide1: "/memory-year-book/Memory5.jpg
+slide1: "/memory-year-book/Memory5.jpg"
 alt1: Slide 1
 slide2: "/memory-year-book/Memory2.jpg"
 alt2: Slide 3
