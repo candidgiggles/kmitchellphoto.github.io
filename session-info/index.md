@@ -5,7 +5,7 @@ permalink: /session-info/
 published: true
 
 title1: Family Sessions
-img1: /img/Website Galleries/Family/Barone-15.jpg
+img1: /family-sessions/Family1.jpg
 post1: Family Sessions are 60 minute sessions held at the location of your choice where I will capture a mixture of portraits and candid shots of your family together. 
 link1: /family-sessions/
 
