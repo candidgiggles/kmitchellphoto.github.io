@@ -30,3 +30,6 @@ Includes:
 - Private online gallery for purchasing prints a la carte 
 					
 Additional hours will be billed at $85/hour. A 50% deposit is required at booking.
+
+"Looking at photos taken before my son's Senior Prom put a great ending on a wonderful Mother's Day! Thanks Kimberly of Candid Giggles Photography. You continue to surprise me with the best things a mother could ever have...memories of special moments with her kids. You're the best!!!"- Lori J., Olympia Fields, IL 
+
