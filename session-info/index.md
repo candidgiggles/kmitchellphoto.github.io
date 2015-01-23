@@ -15,7 +15,7 @@ post2: Senior sessions are designed for high school seniors who want to show off
 link2: /senior-sessions/
 
 title3: Event Photography
-img3: /img/Website Galleries/Events/Lauren&Co-12.jpg
+img3: /event-photography/Event3.jpg
 post3: Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages.
 link3: /event-photography/
 
