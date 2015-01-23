@@ -3,12 +3,16 @@ layout: fullpostinfo
 title: Memory Year Book
 permalink: "/memory-year-book/"
 published: true
-slide1: "http://www.placehold.it/1365x910"
+slide1: /homepage_images/Senior_2.jpg
 alt1: Slide 1
-slide2: /homepage_images/Senior_2.jpg
+slide2: /memory-year-book/Memory2.jpg
 alt2: Slide 3
-slide3: /img/Aboutme2014.jpg
+slide3: /memory-year-book/Memory3.jpg
 alt3: Slide 3
+slide4: /memory-year-book/Memory4.jpg
+alt4: Slide 4
+slide5: /memory-year-book/Memory1.jpg
+alt5: Slide 5
 ---
 ##  A special package for 8th graders and High School Seniors
 
