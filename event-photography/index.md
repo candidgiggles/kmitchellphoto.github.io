@@ -3,7 +3,7 @@ layout: fullpostinfo
 title: Event Photography
 permalink: "/event-photography/"
 published: true
-slide1: /homepage_images/Events.jpg
+slide1: "/event-photography/Event5.jpg"
 alt1: Slide 1
 slide2: "/event-photography/Event1.jpg"
 alt2: Slide 2
