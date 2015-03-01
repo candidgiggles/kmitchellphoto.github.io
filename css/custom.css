@@ -423,3 +423,20 @@ h6, h6 span, h6 a,
 	width:80px;
 	height:25px;
 }
+
+/* Contact Form */
+#form1 ul li:before {
+    content: '';
+}
+
+#form1 ul li label {
+    display: block;
+}
+
+#form1 label.choice {
+    display: inline-block;
+}
+
+#form1 .hide {
+    display: none;
+}

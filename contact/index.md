@@ -1,9 +1,12 @@
 ---
-layout: page
+layout: contactfull
 title: Contact
+address: 123 Main St. Flossmoor, IL 60422
+email: kimberly@candidgiggles.com
+phone: 708.704.5343
+facebook: http://facebook.com/candidgiggles
 permalink: /contact/
 published: true
-img: /img/Aboutme2014.jpg
 ---
 
 Hi, I’m Kimberly - a wife, mother of two, lawyer by profession, photographer by passion, and the woman behind the lens at Candid Giggles Photography. My artistic eye and technical skills allow me to create beautiful images of life’s everyday moments- images for you to share, display, and pass down to future generations.
