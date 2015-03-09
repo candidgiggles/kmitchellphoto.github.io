@@ -2,8 +2,6 @@
 layout: contactfull
 title: Contact
 address: 123 Main St. Flossmoor, IL 60422
-email: kimberly@candidgiggles.com
-phone: 708.704.5343
 permalink: /contact/
 published: true
 ---
