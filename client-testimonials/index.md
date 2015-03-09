@@ -1,7 +1,7 @@
 ---
 layout: fullwidth
 title: Client Testimonials
-permalink: /faq/
+permalink: /client-testimonials/
 published: true
 ---
 
