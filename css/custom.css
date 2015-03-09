@@ -440,3 +440,9 @@ h6, h6 span, h6 a,
 #form1 .hide {
     display: none;
 }
+
+/* Footer */
+footer .socials_list li {
+    width: auto;
+    margin: 0 18px;
+}
