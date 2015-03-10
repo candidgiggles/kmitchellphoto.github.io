@@ -22,6 +22,7 @@ Let me do the shutter snapping while you enjoy your son or daughter’s most mem
 The “memory year book” is a 20 page book printed on professional lustre photo paper with binding that allows every page to lay flat. Your photos will be displayed beautifully with rich vibrant colors that will last a lifetime.
 
 ##  $575
+
 ($850 value)
 
 Includes:
