@@ -25,10 +25,10 @@ The “memory year book” is a 20 page book printed on professional lustre phot
 ($850 value)
 
 Includes:
-- Five hours of photography, which can be divided among multiple events 
-- One 20 page 8x10 custom designed photo book 
-- A shareable mobile app of selected photos
-- Private online gallery for purchasing prints a la carte 
+* Five hours of photography, which can be divided among multiple events 
+* One 20 page 8x10 custom designed photo book 
+* A shareable mobile app of selected photos
+* Private online gallery for purchasing prints a la carte 
 					
 Additional hours will be billed at $85/hour. A 50% deposit is required at booking.
 
