@@ -9,7 +9,7 @@ slide2: "/event-photography/Event1.jpg"
 alt2: Slide 2
 slide3: "/event-photography/Event2.jpg"
 alt3: Slide 3
-slide4: "/event-photography/Event3.jpg"
+slide4: "/event-photography/Event6.jpg"
 alt4: Slide 4
 slide5: "/event-photography/Event4.jpg"
 alt5: Slide 5
