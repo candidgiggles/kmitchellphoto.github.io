@@ -39,7 +39,8 @@ $600 ($800 Value)
 - Personalized Mobile App 
 - Digital File Collection
 
+*****
 
-> We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL
+> We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves >it! You captured every intricate object which will allow us to forever relive the magical moments made on that >very special night."- Lori J., Olympia Fields, IL
 
 *Candid Giggles Photography does not offer wedding photography services, however we will gladly photograph engagement parties and bridal showers.
