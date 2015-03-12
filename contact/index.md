@@ -1,7 +1,6 @@
 ---
 layout: contactfull
 title: Contact
-address: 123 Main St. Flossmoor, IL 60422
 permalink: /contact/
 published: true
 ---
