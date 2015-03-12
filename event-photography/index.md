@@ -26,13 +26,10 @@ $275 ($350 Value)
 ### Storybook Package
 $450 ($600 Value)
 
-+ Event Coverage up to 4 hours
-
-+ 8x10 Custom Photo Book
-
-+ Personalized Mobile App 
-
-+ 20% off A la Carte Prices
+- Event Coverage up to 4 hours
+- 8x10 Custom Photo Book
+- Personalized Mobile App 
+- 20% off A la Carte Prices
 
 ### Memory Package
 $600 ($800 Value)
