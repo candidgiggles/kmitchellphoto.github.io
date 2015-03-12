@@ -427,6 +427,10 @@ h6, h6 span, h6 a,
 	text-align:center;
 }
 
+.fw_post_page {
+	margin-top: -60px;
+}
+
 /* Logo Size */
 .logo_def,
 .logo_retina {
