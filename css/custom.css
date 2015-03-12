@@ -417,6 +417,10 @@ h6, h6 span, h6 a,
 	}
 }
 
+.center {
+	text-align:center;
+}
+
 /* Logo Size */
 .logo_def,
 .logo_retina {
