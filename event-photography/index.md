@@ -26,10 +26,13 @@ $275 ($350 Value)
 ### Storybook Package
 $450 ($600 Value)
 
-- Event Coverage up to 4 hours
-- 8x10 Custom Photo Book
-- Personalized Mobile App 
-- 20% off A la Carte Prices
++ Event Coverage up to 4 hours
+
++ 8x10 Custom Photo Book
+
++ Personalized Mobile App 
+
++ 20% off A la Carte Prices
 
 ### Memory Package
 $600 ($800 Value)
@@ -39,7 +42,6 @@ $600 ($800 Value)
 - Personalized Mobile App 
 - Digital File Collection
 
-*****
 
 > We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves >it! You captured every intricate object which will allow us to forever relive the magical moments made on that >very special night."- Lori J., Olympia Fields, IL
 
