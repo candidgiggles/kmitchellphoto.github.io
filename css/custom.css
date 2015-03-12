@@ -107,7 +107,7 @@ footer .copyright {
 }
 
 /* Typography & Shortcodes */
-h3 {
+h2, h3 {
 	margin: 20px 0 10px;
 }
 h5.shortcode_accordion_item_title,
@@ -283,6 +283,9 @@ input[type="submit"],
 }
 .shortcode_button.btn_type4:hover {
 	box-shadow:inset 1px 1px 0 #40b7b8, inset -1px -1px 0 #40b7b8, inset 0 -1px 0 #40b7b8, inset -1px 0 0 #40b7b8;
+}
+blockquote {
+	margin: 15px 0;
 }
 blockquote.shortcode_blockquote.type5 .blockquote_wrapper,
 .widget_tag_cloud a:hover,
