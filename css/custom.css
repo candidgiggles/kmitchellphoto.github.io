@@ -107,6 +107,9 @@ footer .copyright {
 }
 
 /* Typography & Shortcodes */
+h3 {
+	margin: 20px 0 10px;
+}
 h5.shortcode_accordion_item_title,
 h5.shortcode_toggles_item_title,
 h5.shortcode_accordion_item_title.state-active {
