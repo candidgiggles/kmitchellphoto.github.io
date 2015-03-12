@@ -19,10 +19,9 @@ Candid Giggles Photography offers event photography coverage for events up to 4 
 
 <h3>Party Package</h3>
 $275 ($350 Value)
-<ul class>
-<li>Event Coverage up to 4 hours</li>
-<li>Ten 4x6 Prints</li>
-</ul>
+- Event Coverage up to 4 hours
+- Ten 4x6 Prints
+
 
 ### Storybook Package
 $450 ($600 Value)
