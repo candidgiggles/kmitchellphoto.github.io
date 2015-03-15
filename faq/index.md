@@ -29,7 +29,7 @@ High school seniors are welcome to bring their cap & gowns and a change of cloth
 
 DO YOU OFFER ANY MINI SESSIONS?
 
-I offer very limited occasion mini sessions throughout the year. It is up to 20 minutes and has a particular theme or setting. They are announced via my [newsletter](http://mad.ly/signups/88580/join) or on my [Facebook page](https://www.facebook.com/CandidGiggles). Mini sessions are great to get quick updates of your growing child at a significantly low investment.
+[newsletter](http://mad.ly/signups/88580/join) or on my [Facebook page](https://www.facebook.com/CandidGiggles). Mini sessions are great to get quick updates of your growing child at a significantly low investment.
 
 HOW LONG DOES IT TAKE TO VIEW OUR IMAGES AFTER THE SESSION?
 
