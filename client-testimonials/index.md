@@ -5,7 +5,7 @@ permalink: "/client-testimonials/"
 published: true
 ---
 
-> Kimberly, of Candid Giggles, has been our go-to photographer for many of our family's milestones from birthdays to major holidays and the candid moments in between. Her professionalism and attention to detail combined with the quality of prints and products she offers makes us repeated customers. In a time when storing pictures on our phones has become the norm, it's great to have physical prints and photo books to pass on to our children.- Tiffany G., Flossmoor, IL  
+> Kimberly has been our go-to photographer for many of our family's milestones from birthdays to major holidays and the candid moments in between. Her professionalism and attention to detail combined with the quality of prints and products she offers makes us repeated customers. In a time when storing pictures on our phones has become the norm, it's great to have physical prints and photo books to pass on to our children.- Tiffany G., Flossmoor, IL  
 
 > Kimberly made a special delivery of our final photos yesterday. Tears of joy and happiness were my first reactions when I saw them. It really didn't hit me until viewing the pictures that we hadn't taken a professional family portrait since Leah (10) was first born. Thanks for your patience, professionalism and most of all... for cropping out the CrAzY attitudes resulted from the intense heat during the photo shoot. 
 You're the Best! -Lori J., Olympia Fields, IL
