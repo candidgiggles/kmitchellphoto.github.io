@@ -7,8 +7,6 @@ published: true
 
 ## Prints
 
-<html>
- <body>
   <table border="1">
    <tr>
     <th>Size</th>
@@ -29,11 +27,27 @@ published: true
    <tr>
     <td>8x10</td>
     <td>$20</td>
+    </tr>
+   <tr>
+    <td>11x14</td>
+    <td>$30</td>
+    </tr>
+   <tr>
+   <td>10x20</td>
+    <td>$40</td>
+    </tr>
+   <tr>
+   <td>16x20</td>
+    <td>$50</td>
+    </tr>
+   <tr>
+   <td>16x24</td>
+    <td>$55</td>
+    </tr>
+   <tr>
   </table>
- </body>
-</html>
-
-
+ 
+ 
 6x8 Custom Photo Book $150
 8x8 Custom Photo Book $175
 8x10 Custom Photo Book $200
