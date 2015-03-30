@@ -7,7 +7,7 @@ published: true
 
 ## Copyright Information
 
-An artist’s copyright is protected by the Federal Copyright Law. It is unlawful to copy or scan any images without permission. Even though the pictures may be of you or your child, the photographer still owns the copyright to the image. In order to control the quality of the work produced, the photographer is the only one who can crop, modify, or print any image produced at this photo session(s). Candid Giggles Photography retains the copyright and ownership of all images of the photo session and clients are not allowed to reproduce any images produced by the photographer for any purpose without written consent.
+An artist’s copyright is protected by the Federal Copyright Law (USC Title 17). It is unlawful to copy or scan any images without permission. Even though the pictures may be of you or your child, the photographer still owns the copyright to the image. In order to control the quality of the work produced, the photographer is the only one who can crop, modify, or print any image produced at this photo session(s). Candid Giggles Photography retains the copyright and ownership of all images of the photo session and clients are not allowed to reproduce any images produced by the photographer for any purpose without written consent.
 
 Photos from the gallery may not be screen captured or photographed. You may share the link to our website with your loved ones to share and place an order. However, sharing the images by any other social medium including facebook or your personal website is prohibited until you have the written permission from Candid Giggles Photography. Removal of the watermark from these images is prohibited.
 
