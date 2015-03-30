@@ -1,38 +1,37 @@
 ---
 layout: defaultwithfooter
 ---
-<div class="fullscreen-gallery hided">
-    <div class="fs_grid_gallery pb5 pl5">
-        <div class="grid-gallery-item loading anim_el pr5 pt5">
-            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
-                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
-                <span class="gallery_fadder"></span>
-                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
-            </a>
+<div class="fullscreen_block hided">
+    <ul class="optionset" data-option-key="filter">
+        <li class="selected"><a href="#filter" data-option-value="*">All Works</a></li>
+        <li><a data-option-value=".events" href="#filter" title="View all post filed under events">Events</a></li>
+        <li><a data-option-value=".family" href="#filter" title="View all post filed under family">Family</a></li>
+        <li><a data-option-value=".seniors" href="#filter" title="View all post filed under seniors">Seniors</a></li>
+        <li><a data-option-value=".toddlers" href="#filter" title="View all post filed under toddlers">Toddlers</a></li>
+        <li><a data-option-value=".headshots" href="#filter" title="View all post filed under headshots">Headshots by Kimberly</a></li>
+    </ul>
+    <div class="fs_blog_module image-grid">
+        <div class="blogpost_preview_fw element {{ page.category1 }}">
+            <div class="fw_preview_wrapper">
+                <div class="gallery_item_wrapper">
+                    <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                        <img src="{{ page.thumb1 }}" alt="{{ page.alt1 }}" class="fw_featured_image" width="540">
+                        <div class="gallery_fadder"></div>
+                        <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+                    </a>
+                </div>
+            </div>
         </div>
-
-        <div class="grid-gallery-item loading anim_el pr5 pt5">
-            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
-                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
-                <span class="gallery_fadder"></span>
-                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
-            </a>
-        </div>
-
-        <div class="grid-gallery-item loading anim_el pr5 pt5">
-            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
-                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
-                <span class="gallery_fadder"></span>
-                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
-            </a>
-        </div>
-
-        <div class="grid-gallery-item loading anim_el pr5 pt5">
-            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
-                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
-                <span class="gallery_fadder"></span>
-                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
-            </a>
+        <div class="blogpost_preview_fw element {{ page.category2 }}">
+            <div class="fw_preview_wrapper">
+                <div class="gallery_item_wrapper">
+                    <a href="{{ page.zoom2 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                        <img src="{{ page.thumb2 }}" alt="{{ page.alt2 }}" class="fw_featured_image" width="540">
+                        <div class="gallery_fadder"></div>
+                        <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -42,10 +41,14 @@ layout: defaultwithfooter
 <script type="text/javascript" src="{{ "/js/jquery-ui.min.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/js/modules.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/js/theme.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/jquery.isotope.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/sorting.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 jQuery(document).ready(function($){
     "use strict";
-    jQuery('html').addClass('without_border');
-    setTimeout("animateList()",200);
+    setTimeout(function(){
+        jQuery('.fullscreen_block').removeClass('hided');
+    },2500);
+    setTimeout("jQuery('.preloader').remove()", 2700);
 });
 </script>
