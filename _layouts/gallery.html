@@ -1,0 +1,51 @@
+---
+layout: defaultwithfooter
+---
+<div class="fullscreen-gallery hided">
+    <div class="fs_grid_gallery pb5 pl5">
+        <div class="grid-gallery-item loading anim_el pr5 pt5">
+            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
+                <span class="gallery_fadder"></span>
+                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+            </a>
+        </div>
+
+        <div class="grid-gallery-item loading anim_el pr5 pt5">
+            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
+                <span class="gallery_fadder"></span>
+                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+            </a>
+        </div>
+
+        <div class="grid-gallery-item loading anim_el pr5 pt5">
+            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
+                <span class="gallery_fadder"></span>
+                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+            </a>
+        </div>
+
+        <div class="grid-gallery-item loading anim_el pr5 pt5">
+            <a href="{{ page.zoom1 }}" class="prettyPhoto" data-rel="prettyPhoto[gallery99]" title="">
+                <img src="{{ page.thumb1 }}" alt="" class="fw_featured_image" width="540" height="375">
+                <span class="gallery_fadder"></span>
+                <span class="gallery_ico"><i class="stand_icon icon-eye"></i></span>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="preloader"></div>
+
+<div class="content_bg"></div>
+<script type="text/javascript" src="{{ "/js/jquery-ui.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/modules.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/theme.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($){
+    "use strict";
+    jQuery('html').addClass('without_border');
+    setTimeout("animateList()",200);
+});
+</script>
