@@ -5,7 +5,7 @@ permalink: "/pricing-information/"
 published: true
 ---
 
-Prints
+## Prints
 
 <html>
  <body>
@@ -22,6 +22,13 @@ Prints
     <td>4x6</td>
     <td>$10</td>
    </tr>
+   <tr>
+    <td>5x7</td>
+    <td>$15</td>
+    </tr>
+   <tr>
+    <td>8x10</td>
+    <td>$20</td>
   </table>
  </body>
 </html>
