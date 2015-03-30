@@ -9,8 +9,8 @@ zoom1: /family-sessions/Family4.jpg
 alt1: An awesome family session
 category1: events
 
-thumb2: /portfolio/alexis.jpg
-zoom2: /portfolio/alexis_thumb.jpg
+thumb2: /portfolio/alexis_thumb.jpg
+zoom2: /portfolio/alexis.jpg
 alt2: Alexis the Senior
 category2: seniors
 
@@ -19,13 +19,13 @@ zoom3: /family-sessions/Family4.jpg
 alt3: An awesome family session
 category3: family
 
-thumb4: /portfolio/alexis.jpg
-zoom4: /portfolio/alexis_thumb.jpg
+thumb4: /portfolio/alexis_thumb.jpg
+zoom4: /portfolio/alexis.jpg
 alt4: Alexis the Senior
 category4: toddlers
 
-thumb5: /portfolio/alexis.jpg
-zoom5: /portfolio/alexis_thumb.jpg
+thumb5: /portfolio/alexis_thumb.jpg
+zoom5: /portfolio/alexis.jpg
 alt5: Alexis the Senior
 category5: headshots
 ---
