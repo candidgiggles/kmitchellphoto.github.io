@@ -17,39 +17,117 @@ published: true
     <td>$10</td>
    </tr>
    <tr>
-    <td>4x6</td>
+    <td>4 x 6</td>
     <td>$10</td>
    </tr>
    <tr>
-    <td>5x7</td>
+    <td>5 x 7</td>
     <td>$15</td>
     </tr>
    <tr>
-    <td>8x10</td>
+    <td>8 x 10</td>
     <td>$20</td>
     </tr>
    <tr>
-    <td>11x14</td>
+    <td>11 x 14</td>
     <td>$30</td>
     </tr>
    <tr>
-   <td>10x20</td>
+   <td>10 x 20</td>
     <td>$40</td>
     </tr>
    <tr>
-   <td>16x20</td>
+   <td>16 x 20</td>
     <td>$50</td>
     </tr>
    <tr>
-   <td>16x24</td>
+   <td>16 x 24</td>
     <td>$55</td>
     </tr>
    <tr>
+   <td>20 x 24</td>
+    <td>$60</td>
+    </tr>
   </table>
- 
- 
-6x8 Custom Photo Book $150
-8x8 Custom Photo Book $175
-8x10 Custom Photo Book $200
 
-Set of 3 3x3 Purse Albums $90
+## Canvases
+
+<table border="1">
+   <tr>
+    <th>Size</th>
+    <th>Price</th>
+   </tr>
+   <tr>
+    <td>5 x 7 Mini</td>
+    <td>$30</td>
+   </tr>
+   <tr>
+    <td>8 x 10 Mini</td>
+    <td>$40</td>
+   </tr>
+   <tr>
+    <td>10 x 10 (1.25" Wrap)</td>
+    <td>$75</td>
+    </tr>
+   <tr>
+    <td>11 x 14 (1.25" Wrap)</td>
+    <td>$85</td>
+    </tr>
+   <tr>
+    <td>10 x 20 (1.25" Wrap)</td>
+    <td>$100</td>
+    </tr>
+   <tr>
+   <td>16 x 20 (1.25" Wrap)</td>
+    <td>$40</td>
+    </tr>
+   <tr>
+   <td>16 x 24 (1.25" Wrap)</td>
+    <td>$140</td>
+    </tr>
+   <tr>
+   <td>20 x 20 (1.25" Wrap)</td>
+    <td>$150</td>
+    </tr>
+   <tr>
+   <td>20 x 24 (1.25" Wrap)</td>
+    <td>$175</td>
+    </tr>
+    <tr>
+   <td>20 x 30 (1.25" Wrap)</td>
+    <td>$200</td>
+    </tr>
+  </table>
+
+## Products
+
+  <table border="1">
+   <tr>
+    <th>Size</th>
+    <th>Price</th>
+   </tr>
+   <tr>
+    <td>6 x 8 Custom Photo Book</td>
+    <td>$150</td>
+   </tr>
+   <tr>
+    <td>8 x 8 Custom Photo Book</td>
+    <td>$175</td>
+   </tr>
+   <tr>
+    <td>5 x 7</td>
+    <td>$15</td>
+    </tr>
+   <tr>
+    <td>8 x 10</td>
+    <td>$20</td>
+    </tr>
+   <tr>
+    <td>8 x 10 Custom Photo Book</td>
+    <td>$200</td>
+    </tr>
+   <tr>
+   <td>Set of 3 3 x 3 Purse Albums</td>
+    <td>$90</td>
+    </tr>
+   </table>
