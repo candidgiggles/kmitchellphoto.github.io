@@ -115,14 +115,6 @@ published: true
     <td>$175</td>
    </tr>
    <tr>
-    <td>5 x 7</td>
-    <td>$15</td>
-    </tr>
-   <tr>
-    <td>8 x 10</td>
-    <td>$20</td>
-    </tr>
-   <tr>
     <td>8 x 10 Custom Photo Book</td>
     <td>$200</td>
     </tr>
