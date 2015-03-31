@@ -89,4 +89,14 @@ zoom17: /portfolio/Events/Alexis16-2.jpg
 alt17: 
 category17: events
 
+thumb18: /portfolio/Seniors/Marian Prom-8.jpg
+zoom18: /portfolio/Seniors/Marian Prom-8.jpg
+alt18: 
+category18: seniors
+
+thumb19: /portfolio/Seniors/Lauren16-18.jpg
+zoom19: /portfolio/Seniors/Lauren16-18.jpg
+alt19: 
+category19: seniors
+
 ---
