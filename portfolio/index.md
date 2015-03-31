@@ -39,13 +39,13 @@ zoom7: /portfolio/Seniors/Ignatius Prom-31.jpg
 alt7: 
 category7: seniors
 
-thumb8: /portfolio/Seniors/Madison-3.jpg
-zoom8: /portfolio/Seniors/Madison-3.jpg
+thumb8: /portfolio/Toddlers/Madison-3.jpg
+zoom8: /portfolio/Toddlers/Madison-3.jpg
 alt8: 
 category8: toddlers
 
-thumb9: /portfolio/Seniors/Bobb-3131.jpg
-zoom9: /portfolio/Seniors/Bobb-3131.jpg
+thumb9: /portfolio/Toddlers/Bobb-3131.jpg
+zoom9: /portfolio/Toddlers/Bobb-3131.jpg
 alt9: 
 category9: toddlers
 
