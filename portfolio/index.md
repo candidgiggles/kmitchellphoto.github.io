@@ -4,182 +4,182 @@ title: Portfolio
 permalink: /portfolio/
 published: true
 
-thumb1: /portfolio/Family/Barone-15.jpg
+thumb1: /portfolio/FamilyThumbnails/Barone-15.jpg
 zoom1: /portfolio/Family/Barone-15.jpg
 alt1: Family
 category1: family
 
-thumb2: /portfolio/Family/Barone-20.jpg
+thumb2: /portfolio/FamilyThumbnails/Barone-20.jpg
 zoom2: /portfolio/Family/Barone-15.jpg
 alt2: 
 category2: family
 
-thumb3: /portfolio/Family/Beal-19.jpg
+thumb3: /portfolio/FamilyThumbnails/Beal-19.jpg
 zoom3: /portfolio/Family/Beal-19.jpg
 alt3: 
 category3: family
 
-thumb4: /portfolio/Family/Beal-30.jpg
+thumb4: /portfolio/FamilyThumbnails/Beal-30.jpg
 zoom4: /portfolio/Family/Beal-19.jpg
 alt4: 
 category4: family
 
-thumb5: /portfolio/Seniors/Lauren16-18.jpg
+thumb5: /portfolio/SeniorThumbnails/Lauren16-18.jpg
 zoom5: /portfolio/Seniors/Lauren16-18.jpg
 alt5: 
 category5: seniors
 
-thumb6: /portfolio/Family/Turpeau-8.jpg
+thumb6: /portfolio/FamilyThumbnails/Turpeau-8.jpg
 zoom6: /portfolio/Family/Turpeau-8.jpg
 alt6: 
 category6: family
 
-thumb7: /portfolio/Family/Turpeau-11.jpg
+thumb7: /portfolio/FamilyThumbnails/Turpeau-11.jpg
 zoom7: /portfolio/Family/Turpeau-11.jpg
 alt7: 
 category7: family
 
-thumb8: /portfolio/Toddlers/Madison-3.jpg
+thumb8: /portfolio/ToddlerThumbnails/Madison-3.jpg
 zoom8: /portfolio/Toddlers/Madison-3.jpg
 alt8: 
 category8: toddlers
 
-thumb9: /portfolio/Toddlers/Bobb-3131.jpg
+thumb9: /portfolio/ToddlerThumbnails/Bobb-3131.jpg
 zoom9: /portfolio/Toddlers/Bobb-3131.jpg
 alt9: 
 category9: toddlers
 
-thumb10: /portfolio/Toddlers/Phoebe-1.jpg
+thumb10: /portfolio/ToddlerThumbnails/Phoebe-1.jpg
 zoom10: /portfolio/Toddlers/Phoebe-1.jpg
 alt10: 
 category10: toddlers
 
-thumb11: /portfolio/Events/Engagement Party-12.jpg
+thumb11: /portfolio/EventThumbnails/Engagement Party-12.jpg
 zoom11: /portfolio/Events/Engagement Party-12.jpg
 alt11: 
 category11: events
 
-thumb12: /portfolio/Seniors/Jeremy-14.jpg
+thumb12: /portfolio/SeniorThumbnails/Jeremy-14.jpg
 zoom12: /portfolio/Seniors/Jeremy-14.jpg
 alt12: 
 category12: seniors
 
-thumb13: /portfolio/Family/Grimes-3.jpg
+thumb13: /portfolio/FamilyThumbnails/Grimes-3.jpg
 zoom13: /portfolio/Family/Grimes-3.jpg
 alt13: 
 category13: family
 
-thumb14: /portfolio/Family/Grimes-5.jpg
+thumb14: /portfolio/FamilyThumbnails/Grimes-5.jpg
 zoom14: /portfolio/Family/Grimes-5.jpg
 alt14: 
 category14: family
 
-thumb15: /portfolio/Toddlers/Fairley-17.jpg
+thumb15: /portfolio/ToddlerThumbnails/Fairley-17.jpg
 zoom15: /portfolio/Toddlers/Fairley-17.jpg
 alt15: 
 category15: toddlers
 
-thumb16: /portfolio/Events/IMG_3085.jpg
+thumb16: /portfolio/EventThumbnails/IMG_3085.jpg
 zoom16: /portfolio/Events/IMG_3085.jpg
 alt16: 
 category16: events
 
-thumb17: /portfolio/Events/Alexis16-2.jpg
+thumb17: /portfolio/EventThumbnails/Alexis16-2.jpg
 zoom17: /portfolio/Events/Alexis16-2.jpg
 alt17: 
 category17: events
 
-thumb18: /portfolio/Seniors/Marian Prom-8.jpg
+thumb18: /portfolio/SeniorThumbnails/Marian Prom-8.jpg
 zoom18: /portfolio/Seniors/Marian Prom-8.jpg
 alt18: 
 category18: seniors
 
-thumb19: /portfolio/Seniors/Nia Prom-80.jpg
+thumb19: /portfolio/SeniorThumbnails/Nia Prom-80.jpg
 zoom19: /portfolio/Seniors/Nia Prom-80.jpg
 alt19: 
 category19: seniors
 
-thumb20: /portfolio/Seniors/Jorie-41.jpg
+thumb20: /portfolio/SeniorThumbnails/Jorie-41.jpg
 zoom20: /portfolio/Seniors/Jorie-41.jpg
 alt20: 
 category20: seniors
 
-thumb21: /portfolio/Seniors/Jorie-2.jpg
+thumb21: /portfolio/SeniorThumbnails/Jorie-2.jpg
 zoom21: /portfolio/Seniors/Jorie-2.jpg
 alt21: 
 category21: seniors
 
-thumb22: /portfolio/Family/Candid_Giggles_5937-1.jpg
+thumb22: /portfolio/FamilyThumbnails/Candid_Giggles_5937-1.jpg
 zoom22: /portfolio/Family/Candid_Giggles_5937-1.jpg
 alt22: 
 category22: family
 
-thumb23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+thumb23: /portfolio/HeadshotThumbnails/Latonya-2.jpg
 zoom23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt23: 
 category23: headshots by kimberly
 
-thumb24: /portfolio/Family/Ross-19.jpg
+thumb24: /portfolio/FamilyThumbnails/Ross-19.jpg
 zoom24: /portfolio/Family/Ross-19.jpg
 alt24: 
 category24: family
 
-thumb25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
+thumb25: /portfolio/HeadshotThumbnails/Dana Dolan-8.jpg
 zoom25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
 alt25: 
 category25: headshots by kimberly
 
-thumb26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
+thumb26: /portfolio/HeadshotThumbnails/CLG-24.jpg
 zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt26: 
 category26: headshots by kimberly
 
-thumb27: /portfolio/Seniors/Kierra-9.jpg
+thumb27: /portfolio/SeniorThumbnails/Kierra-9.jpg
 zoom27: /portfolio/Seniors/Kierra-9.jpg
 alt27: 
 category27: seniors
 
-thumb28: /portfolio/Family/Candid_Giggles_3697.jpg
+thumb28: /portfolio/FamilyThumbnails/Candid_Giggles_3697.jpg
 zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
 alt28: 
 category28: family
 
-thumb29: /portfolio/Events/Engagement Party-2.jpg
+thumb29: /portfolio/EventThumbnails/Engagement Party-2.jpg
 zoom29: /portfolio/Events/Engagement Party-2.jpg
 alt29: 
 category29: events
 
-thumb30: /portfolio/Events/Teddy Bridal-7.jpg
+thumb30: /portfolio/EventThumbnails/Teddy Bridal-7.jpg
 zoom30: /portfolio/Events/Teddy Bridal-7.jpg
 alt30: 
 category30: events
 
-thumb31: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+thumb31: /portfolio/HeadshotThumbnails/CLG-4.jpg
 zoom31: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt31: 
 category31: headshots by kimberly
 
-thumb32: /portfolio/Toddlers/Talley-2.jpg
+thumb32: /portfolio/ToddlerThumbnails/Talley-2.jpg
 zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Toddlers/Maeve-11.jpg
+thumb33: /portfolio/ToddlerThumbnails/Maeve-11.jpg
 zoom33: /portfolio/Toddlers/Maeve-11.jpg
 alt33: 
 category33: toddlers
 
-thumb34: /portfolio/Family/Kauffman-17.jpg
+thumb34: /portfolio/FamilyThumbnails/Kauffman-17.jpg
 zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Events/NiaBirthday-82.jpg
+thumb35: /portfolio/EventThumbnails/NiaBirthday-82.jpg
 zoom35: /portfolio/Events/NiaBirthday-82.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/Events/NiaBirthday-86.jpg
+thumb36: /portfolio/EventThumbnails/NiaBirthday-86.jpg
 zoom36: /portfolio/Events/NiaBirthday-86.jpg
 alt36: 
 category36: events
