@@ -74,10 +74,10 @@ zoom14: /portfolio/Family/Grimes-5.jpg
 alt14: 
 category14: family
 
-thumb15: /portfolio/Events/Lauren&Co-63.jpg
-zoom15: /portfolio/Events/Lauren&Co-63.jpg
+thumb15: /portfolio/Toddlers/Fairley-17.jpg
+zoom15: /portfolio/Toddlers/Fairley-17.jpg
 alt15: 
-category15: events
+category15: toddlers
 
 thumb16: /portfolio/Events/IMG_3085.jpg
 zoom16: /portfolio/Events/IMG_3085.jpg
