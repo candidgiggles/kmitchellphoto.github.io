@@ -118,4 +118,14 @@ thumb23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 zoom23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt23: 
 category23: headshots by kimberly
+
+thumb24: /portfolio/Family/Ross-19.jpg
+zoom24: /portfolio/Family/Ross-19.jpg
+alt24: 
+category24: family
+
+thumb25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
+zoom25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
+alt25: 
+category25: headshots by kimberly
 ---
