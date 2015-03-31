@@ -4,28 +4,44 @@ title: Portfolio
 permalink: /portfolio/
 published: true
 
-thumb1: /family-sessions/Family4.jpg
-zoom1: /family-sessions/Family4.jpg
-alt1: An awesome family session
-category1: events
+thumb1: /portfolio/Family/Barone-15.jpg
+zoom1: /portfolio/Family/Barone-15.jpg
+alt1: Family
+category1: family
 
-thumb2: /portfolio/alexis_thumb.jpg
-zoom2: /portfolio/alexis.jpg
-alt2: Alexis the Senior
-category2: seniors
+thumb2: /portfolio/Family/Barone-20.jpg
+zoom2: /portfolio/Family/Barone-15.jpg
+alt2: 
+category2: family
 
-thumb3: /family-sessions/Family4.jpg
-zoom3: /family-sessions/Family4.jpg
-alt3: An awesome family session
+thumb3: /portfolio/Family/Beal-19.jpg
+zoom3: /portfolio/Family/Beal-19.jpg
+alt3: 
 category3: family
 
-thumb4: /portfolio/alexis_thumb.jpg
-zoom4: /portfolio/alexis.jpg
-alt4: Alexis the Senior
-category4: toddlers
+thumb4: /portfolio/Family/Beal-30.jpg
+zoom4: /portfolio/Family/Beal-19.jpg
+alt4: 
+category4: family
 
-thumb5: /portfolio/alexis_thumb.jpg
-zoom5: /portfolio/alexis.jpg
-alt5: Alexis the Senior
-category5: headshots
+thumb5: /portfolio/Family/Candid_Giggles_3630.jpg
+zoom5: /portfolio/Family/Candid_Giggles_3630.jpg
+alt5: 
+category5: family
+
+thumb6: /portfolio/Seniors/Courtney-103.jpg
+zoom6: /portfolio/Seniors/Courtney-103.jpg
+alt6: 
+category6: seniors
+
+thumb7: /portfolio/Seniors/Ignatius Prom-31.jpg
+zoom7: /portfolio/Seniors/Ignatius Prom-31.jpg
+alt7: 
+category7: seniors
+
+thumb8: /portfolio/Seniors/Jeremy-14.jpg
+zoom8: /portfolio/Seniors/Jeremy-14.jpg
+alt8: 
+category8: seniors
+
 ---
