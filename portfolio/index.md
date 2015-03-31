@@ -174,5 +174,14 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
+thumb35: /portfolio/Events/NiaBirthday-82.jpg
+zoom35: /portfolio/Events/NiaBirthday-82.jpg
+alt35: 
+category35: events
+
+thumb36: /portfolio/Events/NiaBirthday-86.jpg
+zoom36: /portfolio/Events/NiaBirthday-86.jpg
+alt36: 
+category36: events
 
 ---
