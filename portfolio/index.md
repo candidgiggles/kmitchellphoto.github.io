@@ -99,4 +99,14 @@ zoom19: /portfolio/Seniors/Lauren16-18.jpg
 alt19: 
 category19: seniors
 
+thumb20: /portfolio/Seniors/Jorie-41.jpg
+zoom20: /portfolio/Seniors/Jorie-41.jpg
+alt20: 
+category20: seniors
+
+thumb21: /portfolio/Seniors/Jorie-2.jpg
+zoom21: /portfolio/Seniors/Jorie-2.jpg
+alt21: 
+category21: seniors
+
 ---
