@@ -60,9 +60,9 @@ alt11:
 category11: events
 
 thumb12: /portfolio/Seniors/Jeremy-14.jpg
-zoom12: /portfolio/Senior/Jeremy-14.jpg
+zoom12: /portfolio/Seniors/Jeremy-14.jpg
 alt12: 
-category12: senior
+category12: seniors
 
 thumb13: /portfolio/Family/Grimes-3.jpg
 zoom13: /portfolio/Family/Grimes-3.jpg
@@ -163,6 +163,16 @@ thumb32: /portfolio/Toddlers/Talley-2.jpg
 zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
+
+thumb33: /portfolio/Toddlers/Maeve-11.jpg
+zoom33: /portfolio/Toddlers/Maeve-11.jpg
+alt33: 
+category33: toddlers
+
+thumb34: /portfolio/Family/Kauffman-17.jpg
+zoom34: /portfolio/Family/Kauffman-17.jpg
+alt34: 
+category34: family
 
 
 ---
