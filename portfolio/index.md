@@ -74,14 +74,19 @@ zoom14: /portfolio/Family/Grimes-5.jpg
 alt14: 
 category14: family
 
-thumb15: /portfolio/Events/Lauren&Co-17.jpg
-zoom15: /portfolio/Events/Lauren&Co-17.jpg
+thumb15: /portfolio/Events/Lauren&Co-63.jpg
+zoom15: /portfolio/Events/Lauren&Co-63.jpg
 alt15: 
 category15: events
 
-thumb16: /portfolio/Events/Lauren&Co-73.jpg
-zoom16: /portfolio/Events/Lauren&Co-73.jpg
+thumb16: /portfolio/Events/IMG_3085.jpg
+zoom16: /portfolio/Events/IMG_3085.jpg
 alt16: 
 category16: events
+
+thumb17: /portfolio/Events/Alexis16-2.jpg
+zoom17: /portfolio/Events/Alexis16-2.jpg
+alt17: 
+category17: events
 
 ---
