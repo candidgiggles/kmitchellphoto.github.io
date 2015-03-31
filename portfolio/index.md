@@ -24,13 +24,13 @@ zoom4: /portfolio/Family/Beal-19.jpg
 alt4: 
 category4: family
 
-thumb5: /portfolio/Family/Candid_Giggles_3630.jpg
-zoom5: /portfolio/Family/Candid_Giggles_3630.jpg
+thumb5: /portfolio/Family/Turpeau-8.jpg
+zoom5: /portfolio/Family/Turpeau-8.jpg
 alt5: 
 category5: family
 
-thumb6: /portfolio/Seniors/Courtney-103.jpg
-zoom6: /portfolio/Seniors/Courtney-103.jpg
+thumb6: /portfolio/Seniors/Jorie-41.jpg
+zoom6: /portfolio/Seniors/Jorie-41.jpg
 alt6: 
 category6: seniors
 
@@ -39,9 +39,14 @@ zoom7: /portfolio/Seniors/Ignatius Prom-31.jpg
 alt7: 
 category7: seniors
 
-thumb8: /portfolio/Seniors/Jeremy-14.jpg
-zoom8: /portfolio/Seniors/Jeremy-14.jpg
+thumb8: /portfolio/Seniors/Madison-3.jpg
+zoom8: /portfolio/Seniors/Madison-3.jpg
 alt8: 
-category8: seniors
+category8: toddlers
+
+thumb9: /portfolio/Seniors/Bobb-3131.jpg
+zoom9: /portfolio/Seniors/Bobb-3131.jpg
+alt9: 
+category9: toddlers
 
 ---
