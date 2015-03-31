@@ -69,10 +69,19 @@ zoom13: /portfolio/Family/Grimes-3.jpg
 alt13: 
 category13: family
 
-thumb13: /portfolio/Family/Grimes-5.jpg
-zoom13: /portfolio/Family/Grimes-5.jpg
-alt13: 
-category13: family
+thumb14: /portfolio/Family/Grimes-5.jpg
+zoom14: /portfolio/Family/Grimes-5.jpg
+alt14: 
+category14: family
 
+thumb15: /portfolio/Events/Lauren&Co-17.jpg
+zoom15: /portfolio/Events/Lauren&Co-17.jpg
+alt15: 
+category15: events
+
+thumb16: /portfolio/Events/Lauren&Co-73.jpg
+zoom16: /portfolio/Events/Lauren&Co-73.jpg
+alt16: 
+category16: events
 
 ---
