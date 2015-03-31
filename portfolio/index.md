@@ -24,10 +24,10 @@ zoom4: /portfolio/Family/Beal-19.jpg
 alt4: 
 category4: family
 
-thumb5: /portfolio/Family/Candid_Giggles_5937-1.jpg
-zoom5: /portfolio/Family/Candid_Giggles_5937-1.jpg
+thumb5: /portfolio/Seniors/Lauren16-18.jpg
+zoom5: /portfolio/Seniors/Lauren16-18.jpg
 alt5: 
-category5: family
+category5: seniors
 
 thumb6: /portfolio/Family/Turpeau-8.jpg
 zoom6: /portfolio/Family/Turpeau-8.jpg
@@ -94,8 +94,8 @@ zoom18: /portfolio/Seniors/Marian Prom-8.jpg
 alt18: 
 category18: seniors
 
-thumb19: /portfolio/Seniors/Lauren16-18.jpg
-zoom19: /portfolio/Seniors/Lauren16-18.jpg
+thumb19: /portfolio/Seniors/Nia Prom-80.jpg
+zoom19: /portfolio/Seniors/Nia Prom-80.jpg
 alt19: 
 category19: seniors
 
@@ -108,5 +108,10 @@ thumb21: /portfolio/Seniors/Jorie-2.jpg
 zoom21: /portfolio/Seniors/Jorie-2.jpg
 alt21: 
 category21: seniors
+
+thumb22: /portfolio/Family/Candid_Giggles_5937-1.jpg
+zoom22: /portfolio/Family/Candid_Giggles_5937-1.jpg
+alt22: 
+category22: family
 
 ---
