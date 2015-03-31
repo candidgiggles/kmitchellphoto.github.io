@@ -128,4 +128,21 @@ thumb25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
 zoom25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
 alt25: 
 category25: headshots by kimberly
+
+thumb26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
+zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
+alt26: 
+category26: headshots by kimberly
+
+thumb27: /portfolio/Seniors/Kierra-9.jpg
+zoom27: /portfolio/Seniors/Kierra-9.jpg
+alt27: 
+category27: seniors
+
+thumb28: /portfolio/Family/Candid_Giggles_3697.jpg
+zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
+alt28: 
+category28: family
+
+
 ---
