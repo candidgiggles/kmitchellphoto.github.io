@@ -59,10 +59,10 @@ zoom11: /portfolio/Events/Engagement Party-12.jpg
 alt11: 
 category11: events
 
-thumb12: /portfolio/Events/Engagement Party-2.jpg
-zoom12: /portfolio/Events/Engagement Party-2.jpg
+thumb12: /portfolio/Seniors/Jeremy-14.jpg
+zoom12: /portfolio/Senior/Jeremy-14.jpg
 alt12: 
-category12: events
+category12: senior
 
 thumb13: /portfolio/Family/Grimes-3.jpg
 zoom13: /portfolio/Family/Grimes-3.jpg
