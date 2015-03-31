@@ -7,13 +7,13 @@ published: true
 
 ## Prints
 
-  <table border="1">
+  <table border="1" style="width: 50%;">
    <tr>
     <th>Size</th>
     <th>Price</th>
    </tr>
    <tr>
-    <td style="width: 50%;">2.25 x 3.25 (8 Wallets)</td>
+    <td>2.25 x 3.25 (8 Wallets)</td>
     <td>$10</td>
    </tr>
    <tr>
@@ -52,7 +52,7 @@ published: true
 
 ## Canvases
 
-<table border="1">
+<table border="1" style="width: 50%;">
    <tr>
     <th>Size</th>
     <th>Price</th>
@@ -101,7 +101,7 @@ published: true
 
 ## Products
 
-  <table border="1">
+  <table border="1" style="width: 50%;">
    <tr>
     <th>Size</th>
     <th>Price</th>
