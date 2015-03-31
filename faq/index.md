@@ -7,7 +7,7 @@ published: true
 
 WHAT IS THE SESSION FEE?
 
-The Session Fee covers the photographer's time and talent, pre-session consulting, post-editing, portrait presentation, design consulting, and order fulfillment. It does not include any prints or digital files. Click here for a full print and product price list.
+The Session Fee covers the photographer's time and talent, pre-session consulting, post-editing, portrait presentation, design consulting, and order fulfillment. It does not include any prints or digital files. Click [here](http://candidgiggles.github.io/pricing-information/) for a full print and product price list.
 
 WHAT SHOULD WE WEAR?
 
