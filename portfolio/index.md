@@ -189,4 +189,14 @@ zoom37: /portfolio/Events/Alexis16-25.jpg
 alt37: 
 category37: events
 
+thumb38: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-7.jpg
+zoom38: /portfolio/HeadshotsbyKimberly/Latonya-7.jpg
+alt38: 
+category38: headshots by kimberly
+
+thumb40: /portfolio/Family/FamilyThumbnails/EdenHalloween-10.jpg
+zoom40: /portfolio/Family/EdenHalloween-10.jpg
+alt40: 
+category40: family
+
 ---
