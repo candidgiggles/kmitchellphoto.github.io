@@ -114,4 +114,8 @@ zoom22: /portfolio/Family/Candid_Giggles_5937-1.jpg
 alt22: 
 category22: family
 
+thumb23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+zoom23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+alt23: 
+category23: headshots by kimberly
 ---
