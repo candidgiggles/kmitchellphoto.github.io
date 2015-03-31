@@ -194,6 +194,11 @@ zoom38: /portfolio/HeadshotsbyKimberly/Latonya-7.jpg
 alt38: 
 category38: headshots by kimberly
 
+thumb39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
+zoom39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
+alt39: 
+category39: family
+
 thumb40: /portfolio/Family/FamilyThumbnails/EdenHalloween-10.jpg
 zoom40: /portfolio/Family/EdenHalloween-10.jpg
 alt40: 
