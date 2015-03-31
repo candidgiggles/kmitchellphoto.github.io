@@ -144,5 +144,25 @@ zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
 alt28: 
 category28: family
 
+thumb29: /portfolio/Events/Engagement Party-2.jpg
+zoom29: /portfolio/Events/Engagement Party-2.jpg
+alt29: 
+category29: events
+
+thumb30: /portfolio/Events/Teddy Bridal-7.jpg
+zoom30: /portfolio/Events/Teddy Bridal-7.jpg
+alt30: 
+category30: events
+
+thumb31: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+zoom31: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+alt31: 
+category31: headshots by kimberly
+
+thumb32: /portfolio/Toddlers/Talley-2.jpg
+zoom32: /portfolio/Toddlers/Talley-2.jpg
+alt32: 
+category32: toddlers
+
 
 ---
