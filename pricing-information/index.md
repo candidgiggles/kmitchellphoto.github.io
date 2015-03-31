@@ -13,7 +13,7 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td>2.25 x 3.25 (8 Wallets)</td>
+    <td style="width: 50%;">2.25 x 3.25 (8 Wallets)</td>
     <td>$10</td>
    </tr>
    <tr>
@@ -58,7 +58,7 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td>5 x 7 Mini</td>
+    <td style="width: 50%;">5 x 7 Mini</td>
     <td>$30</td>
    </tr>
    <tr>
@@ -107,7 +107,7 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td>6 x 8 Custom Photo Book</td>
+    <td style="width: 50%;">6 x 8 Custom Photo Book</td>
     <td>$150</td>
    </tr>
    <tr>
