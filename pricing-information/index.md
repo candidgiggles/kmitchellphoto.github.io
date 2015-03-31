@@ -13,7 +13,7 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td>2.25 x 3.25 (8 Wallets)</td>
+    <td style="width: 50%;">2.25 x 3.25 (8 Wallets)</td>
     <td>$10</td>
    </tr>
    <tr>
