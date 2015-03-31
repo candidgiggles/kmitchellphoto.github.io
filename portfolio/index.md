@@ -64,9 +64,15 @@ zoom12: /portfolio/Events/Engagement Party-2.jpg
 alt12: 
 category12: events
 
-thumb13: /portfolio/Events/Engagement Party-2.jpg
-zoom13: /portfolio/Events/Engagement Party-2.jpg
+thumb13: /portfolio/Family/Grimes-3.jpg
+zoom13: /portfolio/Family/Grimes-3.jpg
 alt13: 
-category13: events
+category13: family
+
+thumb13: /portfolio/Family/Grimes-5.jpg
+zoom13: /portfolio/Family/Grimes-5.jpg
+alt13: 
+category13: family
+
 
 ---
