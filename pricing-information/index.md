@@ -58,8 +58,8 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td style="width: 50%;">High Resolution Digital Image</td>
-    <td>$20</td>
+    <td style="width: 50%;">High Resolution</td>
+    <td>$20 each</td>
    </tr>
    <tr>
     <td>Digital File Collection</td>
