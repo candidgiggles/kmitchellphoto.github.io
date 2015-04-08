@@ -49,6 +49,23 @@ published: true
     <td>$60</td>
     </tr>
   </table>
+  
+## Digital Images
+
+  <table border="1" style="width: 50%;">
+   <tr>
+    <th>Size</th>
+    <th>Price</th>
+   </tr>
+   <tr>
+    <td style="width: 50%;">Each</td>
+    <td>$20</td>
+   </tr>
+   <tr>
+    <td>Gallery Set</td>
+    <td>$250</td>
+   </tr>
+   </table>
 
 ## Canvases
 
