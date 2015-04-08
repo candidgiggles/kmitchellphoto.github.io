@@ -62,7 +62,7 @@ published: true
     <td>$20</td>
    </tr>
    <tr>
-    <td>Gallery Set</td>
+    <td>Digital File Collection</td>
     <td>$250</td>
    </tr>
    </table>
