@@ -204,4 +204,14 @@ zoom40: /portfolio/Family/EdenHalloween-10.jpg
 alt40: 
 category40: family
 
+thumb41: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
+zoom41: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
+alt41: 
+category41: headshots by kimberly
+
+thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
+zoom42: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
+alt42: 
+category42: headshots by kimberly
+
 ---
