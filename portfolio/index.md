@@ -209,7 +209,7 @@ zoom41: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
 alt41: 
 category41: headshots by kimberly
 
-thumb42: /portfolio/HeadshotsbyKimberly/Seniors/SeniorThumbnails/Graduation-7.jpg
+thumb42: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
 zoom42: /portfolio/Seniors/Graduation-7.jpg
 alt42: 
 category42: seniors
