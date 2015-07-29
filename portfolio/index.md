@@ -195,7 +195,7 @@ alt38:
 category38: headshots by kimberly
 
 thumb39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
-zoom39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
+zoom39: /portfolio/Family/Mills-7.jpg
 alt39: 
 category39: family
 
@@ -209,10 +209,10 @@ zoom41: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
 alt41: 
 category41: headshots by kimberly
 
-thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Graduation-7.jpg
-zoom42: /portfolio/HeadshotsbyKimberly/Graduation-7.jpg
+thumb42: /portfolio/HeadshotsbyKimberly/Seniors/SeniorThumbnails/Graduation-7.jpg
+zoom42: /portfolio/Seniors/Graduation-7.jpg
 alt42: 
-category42: headshots by kimberly
+category42: seniors
 
 thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
 zoom43: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
