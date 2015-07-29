@@ -154,8 +154,8 @@ zoom30: /portfolio/Events/Teddy Bridal-7.jpg
 alt30: 
 category30: events
 
-thumb31: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
-zoom31: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+thumb31: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
+zoom31: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
 alt31: 
 category31: headshots by kimberly
 
@@ -209,9 +209,14 @@ zoom41: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
 alt41: 
 category41: headshots by kimberly
 
-thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
-zoom42: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
+thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Graduation-7.jpg
+zoom42: /portfolio/HeadshotsbyKimberly/Graduation-7.jpg
 alt42: 
 category42: headshots by kimberly
+
+thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
+zoom43: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+alt43: 
+category43: headshots by kimberly
 
 ---
