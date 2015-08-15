@@ -64,8 +64,8 @@ zoom12: /portfolio/Seniors/Jeremy-14.jpg
 alt12: 
 category12: seniors
 
-thumb13: /portfolio/Family/FamilyThumbnails/Grimes-3.jpg
-zoom13: /portfolio/Family/Grimes-3.jpg
+thumb13: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
+zoom13: /portfolio/Family/Jorie-30.jpg
 alt13: 
 category13: family
 
@@ -218,5 +218,10 @@ thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
 zoom43: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt43: 
 category43: headshots by kimberly
+
+thumb44: /portfolio/Family/FamilyThumbnails/Grimes-3.jpg
+zoom44: /portfolio/Family/Grimes-3.jpg
+alt44: 
+category44: family
 
 ---
