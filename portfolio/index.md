@@ -189,10 +189,10 @@ zoom37: /portfolio/Events/Alexis16-25.jpg
 alt37: 
 category37: events
 
-thumb38: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-7.jpg
-zoom38: /portfolio/HeadshotsbyKimberly/Latonya-7.jpg
+thumb38: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
+zoom38: /portfolio/Toddlers/Teddy-6.jpg
 alt38: 
-category38: headshots by kimberly
+category38: toddlers
 
 thumb39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
 zoom39: /portfolio/Family/Mills-7.jpg
