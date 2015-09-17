@@ -9,10 +9,10 @@ zoom1: /portfolio/Family/Barone-15.jpg
 alt1: Family
 category1: family
 
-thumb2: /portfolio/Family/FamilyThumbnails/Barone-20.jpg
-zoom2: /portfolio/Family/Barone-15.jpg
+thumb2: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
+zoom2: /portfolio/Seniors/Danielle-28.jpg
 alt2: 
-category2: family
+category2: seniors
 
 thumb3: /portfolio/Family/FamilyThumbnails/Beal-19.jpg
 zoom3: /portfolio/Family/Beal-19.jpg
