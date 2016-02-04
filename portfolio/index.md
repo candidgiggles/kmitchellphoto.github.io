@@ -44,10 +44,10 @@ zoom8: /portfolio/Toddlers/Madison-3.jpg
 alt8: 
 category8: toddlers
 
-thumb9: /portfolio/Toddlers/ToddlerThumbnails/Bobb-3131.jpg
-zoom9: /portfolio/Toddlers/Bobb-3131.jpg
+thumb9: /portfolio/Family/FamilyThumbnails/Gardner-6.jpg
+zoom9: /portfolio/Family/Gardner-6.jpg
 alt9: 
-category9: toddlers
+category9: family
 
 thumb10: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
 zoom10: /portfolio/Toddlers/Phoebe-1.jpg
