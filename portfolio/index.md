@@ -34,10 +34,10 @@ zoom6: /portfolio/Family/Turpeau-8.jpg
 alt6: 
 category6: family
 
-thumb7: /portfolio/Family/FamilyThumbnails/Turpeau-11.jpg
-zoom7: /portfolio/Family/Turpeau-11.jpg
+thumb7: /portfolio/Seniors/SeniorThumbnails/Lauren-53.jpg
+zoom7: /portfolio/Seniors/Lauren-53.jpg
 alt7: 
-category7: family
+category7: seniors
 
 thumb8: /portfolio/Toddlers/ToddlerThumbnails/Madison-3.jpg
 zoom8: /portfolio/Toddlers/Madison-3.jpg
@@ -104,8 +104,8 @@ zoom20: /portfolio/Seniors/Jorie-41.jpg
 alt20: 
 category20: seniors
 
-thumb21: /portfolio/Seniors/SeniorThumbnails/Jorie-2.jpg
-zoom21: /portfolio/Seniors/Jorie-2.jpg
+thumb21: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
+zoom21: /portfolio/Seniors/TaiylarBall-8.jpg
 alt21: 
 category21: seniors
 
@@ -179,8 +179,8 @@ zoom35: /portfolio/Events/NiaBirthday-82.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
-zoom36: /portfolio/Seniors/TaiylarBall-8.jpg
+thumb36: /portfolio/Seniors/SeniorThumbnails/Jorie-2.jpg
+zoom36: /portfolio/Seniors/Jorie-2.jpg
 alt36: 
 category36: seniors
 
