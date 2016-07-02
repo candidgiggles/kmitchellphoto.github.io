@@ -194,34 +194,29 @@ zoom38: /portfolio/Toddlers/Teddy-6.jpg
 alt38: 
 category38: toddlers
 
-thumb39: /portfolio/Family/FamilyThumbnails/Mills-7.jpg
-zoom39: /portfolio/Family/Mills-7.jpg
+thumb39: /portfolio/Family/FamilyThumbnails/EdenHalloween-10.jpg
+zoom39: /portfolio/Family/EdenHalloween-10.jpg
 alt39: 
 category39: family
 
-thumb40: /portfolio/Family/FamilyThumbnails/EdenHalloween-10.jpg
-zoom40: /portfolio/Family/EdenHalloween-10.jpg
+thumb40: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
+zoom40: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
 alt40: 
-category40: family
+category40: headshots by kimberly
 
-thumb41: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
-zoom41: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
+thumb41: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
+zoom41: /portfolio/Seniors/Graduation-7.jpg
 alt41: 
-category41: headshots by kimberly
+category41: seniors
 
-thumb42: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
-zoom42: /portfolio/Seniors/Graduation-7.jpg
+thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
+zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
-category42: seniors
+category42: headshots by kimberly
 
-thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
-zoom43: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+thumb43: /portfolio/Family/FamilyThumbnails/Grimes-3.jpg
+zoom43: /portfolio/Family/Grimes-3.jpg
 alt43: 
-category43: headshots by kimberly
-
-thumb44: /portfolio/Family/FamilyThumbnails/Grimes-3.jpg
-zoom44: /portfolio/Family/Grimes-3.jpg
-alt44: 
-category44: family
+category43: family
 
 ---
