@@ -179,10 +179,10 @@ zoom35: /portfolio/Events/NiaBirthday-82.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/Events/EventThumbnails/NiaBirthday-86.jpg
-zoom36: /portfolio/Events/NiaBirthday-86.jpg
+thumb36: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
+zoom36: /portfolio/Seniors/TaiylarBall-8.jpg
 alt36: 
-category36: events
+category36: seniors
 
 thumb37: /portfolio/Events/EventThumbnails/Alexis16-25.jpg
 zoom37: /portfolio/Events/Alexis16-25.jpg
