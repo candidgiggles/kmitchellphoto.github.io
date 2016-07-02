@@ -14,10 +14,10 @@ zoom2: /portfolio/Seniors/Danielle-28.jpg
 alt2: 
 category2: seniors
 
-thumb3: /portfolio/Family/FamilyThumbnails/Beal-19.jpg
-zoom3: /portfolio/Family/Beal-19.jpg
+thumb3: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
+zoom3: /portfolio/Seniors/Shelby-33.jpg
 alt3: 
-category3: family
+category3: seniors
 
 thumb4: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
 zoom4: /portfolio/Family/Beal-19.jpg
