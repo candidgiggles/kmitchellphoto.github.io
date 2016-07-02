@@ -134,10 +134,10 @@ zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt26: 
 category26: headshots by kimberly
 
-thumb27: /portfolio/Seniors/SeniorThumbnails/Kierra-9.jpg
-zoom27: /portfolio/Seniors/Kierra-9.jpg
+thumb27: /portfolio/Toddlers/ToddlerThumbnails/Teddy-22.jpg
+zoom27: /portfolio/Toddlers/Teddy-22.jpg
 alt27: 
-category27: seniors
+category27: toddlers
 
 thumb28: /portfolio/Family/FamilyThumbnails/Candid_Giggles_3697.jpg
 zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
