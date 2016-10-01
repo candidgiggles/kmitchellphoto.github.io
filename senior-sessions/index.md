@@ -19,7 +19,7 @@ Senior sessions are designed for high school seniors who want to show off their 
 
 High school seniors are welcome to bring their cap & gowns and a change of clothes if they wish. Also they are encouraged to bring any sports equiment, musical instruments, letter jackets, or other high school memorabilia to show off their accomplishments from the year.
 
-###Senior Session
+### Senior Session
 $85 for a one hour session at the location of your choice
 
 ### Cap & Gown Session
