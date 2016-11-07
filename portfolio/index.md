@@ -39,8 +39,8 @@ zoom7: /portfolio/Seniors/Lauren-53.jpg
 alt7: 
 category7: seniors
 
-thumb8: /portfolio/Toddlers/ToddlerThumbnails/Madison-3.jpg
-zoom8: /portfolio/Toddlers/Madison-3.jpg
+thumb8: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
+zoom8: /portfolio/Toddlers/Bates-22.jpg
 alt8: 
 category8: toddlers
 
@@ -144,8 +144,8 @@ zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
 alt28: 
 category28: family
 
-thumb29: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
-zoom29: /portfolio/Toddlers/Bates-22.jpg
+thumb29: /portfolio/Toddlers/ToddlerThumbnails/Madison-3.jpg
+zoom29: /portfolio/Toddlers/Madison-3.jpg
 alt29: 
 category29: toddlers
 
