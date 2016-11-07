@@ -144,10 +144,10 @@ zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
 alt28: 
 category28: family
 
-thumb29: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
-zoom29: /portfolio/Events/Engagement Party-2.jpg
+thumb29: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
+zoom29: /portfolio/Toddlers/Bates-22.jpg
 alt29: 
-category29: events
+category29: toddlers
 
 thumb30: /portfolio/Events/EventThumbnails/Teddy Bridal-7.jpg
 zoom30: /portfolio/Events/Teddy Bridal-7.jpg
@@ -218,5 +218,10 @@ thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
 zoom43: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt43: 
 category43: headshots by kimberly
+
+thumb44: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
+zoom44: /portfolio/Events/Engagement Party-2.jpg
+alt44: 
+category44: events
 
 ---
