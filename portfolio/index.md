@@ -9,10 +9,10 @@ zoom1: /portfolio/Family/Barone-15.jpg
 alt1: Family
 category1: family
 
-thumb2: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
-zoom2: /portfolio/Seniors/Danielle-28.jpg
+thumb2: /portfolio/Family/FamilyThumbnails/Baptiste-15.jpg
+zoom2: /portfolio//Family/Baptiste-15.jpg
 alt2: 
-category2: seniors
+category2: family
 
 thumb3: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
 zoom3: /portfolio/Seniors/Shelby-33.jpg
@@ -24,8 +24,8 @@ zoom4: /portfolio/Family/Beal-19.jpg
 alt4: 
 category4: family
 
-thumb5: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
-zoom5: /portfolio/Seniors/Lauren16-18.jpg
+thumb5: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
+zoom5: /portfolio/Seniors/Danielle-28.jpg
 alt5: 
 category5: seniors
 
@@ -174,13 +174,13 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Events/EventThumbnails/NiaBirthday-82.jpg
-zoom35: /portfolio/Events/NiaBirthday-82.jpg
+thumb35: /portfolio/Seniors/SeniorThumbnails/Jorie-2.jpg
+zoom35: /portfolio/Seniors/Jorie-2.jpg
 alt35: 
-category35: events
+category35: seniors
 
-thumb36: /portfolio/Seniors/SeniorThumbnails/Jorie-2.jpg
-zoom36: /portfolio/Seniors/Jorie-2.jpg
+thumb36: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
+zoom36: /portfolio/Seniors/Lauren16-18.jpg
 alt36: 
 category36: seniors
 
