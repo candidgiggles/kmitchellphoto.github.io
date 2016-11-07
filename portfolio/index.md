@@ -214,14 +214,9 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/Family/FamilyThumbnails/Grimes-3.jpg
-zoom43: /portfolio/Family/Grimes-3.jpg
+thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
+zoom43: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt43: 
-category43: family
-
-thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
-zoom44: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
-alt44: 
-category44: headshots by kimberly
+category43: headshots by kimberly
 
 ---
