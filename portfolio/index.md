@@ -219,4 +219,9 @@ zoom43: /portfolio/Family/Grimes-3.jpg
 alt43: 
 category43: family
 
+thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
+zoom44: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
+alt44: 
+category44: headshots by kimberly
+
 ---
