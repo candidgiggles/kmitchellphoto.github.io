@@ -84,10 +84,10 @@ zoom16: /portfolio/Events/IMG_3085.jpg
 alt16: 
 category16: events
 
-thumb17: /portfolio/Events/EventThumbnails/Alexis16-2.jpg
-zoom17: /portfolio/Events/Alexis16-2.jpg
+thumb17: /portfolio/Toddlers/ToddlerThumbnails/Teddy-22.jpg
+zoom17: /portfolio/Toddlers/Teddy-22.jpg
 alt17: 
-category17: events
+category17: toddlers
 
 thumb18: /portfolio/Seniors/SeniorThumbnails/Marian Prom-8.jpg
 zoom18: /portfolio/Seniors/Marian Prom-8.jpg
@@ -134,10 +134,10 @@ zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt26: 
 category26: headshots by kimberly
 
-thumb27: /portfolio/Toddlers/ToddlerThumbnails/Teddy-22.jpg
-zoom27: /portfolio/Toddlers/Teddy-22.jpg
+thumb27: /portfolio/Events/EventThumbnails/Alexis16-2.jpg
+zoom27: /portfolio/Events/Alexis16-2.jpg
 alt27: 
-category27: toddlers
+category27: events
 
 thumb28: /portfolio/Family/FamilyThumbnails/Candid_Giggles_3697.jpg
 zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
