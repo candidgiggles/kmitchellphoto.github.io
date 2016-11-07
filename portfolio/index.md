@@ -114,8 +114,8 @@ zoom22: /portfolio/Family/Candid_Giggles_5937-1.jpg
 alt22: 
 category22: family
 
-thumb23: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
-zoom23: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+thumb23: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
+zoom23: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
 alt23: 
 category23: headshots by kimberly
 
@@ -219,8 +219,8 @@ zoom43: /portfolio/Family/Grimes-3.jpg
 alt43: 
 category43: family
 
-thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
-zoom44: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
+thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
+zoom44: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt44: 
 category44: headshots by kimberly
 
