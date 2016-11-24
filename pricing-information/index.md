@@ -96,7 +96,7 @@ published: true
     </tr>
    <tr>
    <td>16 x 20 (1.25" Wrap)</td>
-    <td>$40</td>
+    <td>$140</td>
     </tr>
    <tr>
    <td>16 x 24 (1.25" Wrap)</td>
