@@ -124,7 +124,7 @@ published: true
     <th>Price</th>
    </tr>
    <tr>
-    <td style="width: 50%;">6 x 8 Custom Photo Book</td>
+    <td style="width: 50%;">6 x 6 Custom Photo Book</td>
     <td>$150</td>
    </tr>
    <tr>
