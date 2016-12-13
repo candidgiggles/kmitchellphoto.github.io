@@ -129,11 +129,11 @@ published: true
    </tr>
    <tr>
     <td>8 x 8 Custom Photo Book</td>
-    <td>$175</td>
+    <td>$200</td>
    </tr>
    <tr>
-    <td>8 x 10 Custom Photo Book</td>
-    <td>$200</td>
+    <td>10 x 10 Custom Photo Book</td>
+    <td>$225</td>
     </tr>
    <tr>
    <td>Graduation Announcements</td>
