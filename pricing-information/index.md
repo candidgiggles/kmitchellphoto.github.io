@@ -136,7 +136,7 @@ published: true
     <td>$200</td>
     </tr>
    <tr>
-   <td>Set of 3 3 x 3 Purse Albums</td>
-    <td>$90</td>
+   <td>Graduation Announcements</td>
+    <td>$4 each</td>
     </tr>
    </table>
