@@ -20,7 +20,7 @@ Senior sessions are designed for high school seniors who want to show off their 
 High school seniors are welcome to bring their cap & gowns and a change of clothes if they wish. Also they are encouraged to bring any sports equiment, musical instruments, letter jackets, or other high school memorabilia to show off their accomplishments from the year.
 
 ### Senior Session
-$85 for a one hour session at the location of your choice
+$150 for a one hour session at the location of your choice and include a $50 credit toward prints or products. <a href="http://candidgiggles.com/pricing-information/">Click here</a> for the full price list. 
 
 ### Cap & Gown Session
 $225
