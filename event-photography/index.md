@@ -27,7 +27,7 @@ $275 ($350 Value)
 $450 ($600 Value)
 
 - Event Coverage up to 4 hours
-- 8x10 Custom Photo Book
+- 8x8 Custom Photo Book
 - Personalized Mobile App 
 - 20% off A la Carte Prices
 
@@ -35,7 +35,7 @@ $450 ($600 Value)
 $600 ($800 Value)
 
 - Event Coverage up to 4 hours
-- 8x10 Custom Photo Book
+- 8x8 Custom Photo Book
 - Personalized Mobile App 
 - Digital File Collection
 
