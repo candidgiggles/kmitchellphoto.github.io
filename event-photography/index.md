@@ -41,7 +41,6 @@ $600 ($800 Value)
 
 <br>
 <a href="http://candidgiggles.com/contact/">Contact me</a> today to book your event! 
-</br>
 
 > We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL
 
