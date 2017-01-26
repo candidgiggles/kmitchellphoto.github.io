@@ -23,12 +23,8 @@ $275 ($350 Value)
 - Event Coverage up to 4 hours
 - Ten 4x6 Prints
 
-<div class="example-embed-container small">
-          <a href="https://squareup.com/store/candid-giggles-photography/item/event-photography-memory-package" class="sq-embed-item">Event Photography Memory Packages</a>
-        </div>
-      </figure>
-      <figure class="example-embed">
-        <figcaption>
+<a href="https://squareup.com/market/upper-metal-class/bar-earrings" class="sq-embed-item">Bar Earrings from Upper Metal Class on Square Market</a>
+      
          
 
 ### Storybook Package
