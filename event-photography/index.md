@@ -23,6 +23,14 @@ $275 ($350 Value)
 - Event Coverage up to 4 hours
 - Ten 4x6 Prints
 
+<div class="example-embed-container small">
+          <a href="https://squareup.com/store/candid-giggles-photography/item/event-photography-memory-package" class="sq-embed-item">Event Photography Memory Packages</a>
+        </div>
+      </figure>
+      <figure class="example-embed">
+        <figcaption>
+         
+
 ### Storybook Package
 $450 ($600 Value)
 
