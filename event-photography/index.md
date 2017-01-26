@@ -23,10 +23,6 @@ $275 ($350 Value)
 - Event Coverage up to 4 hours
 - Ten 4x6 Prints
 
-<a href="https://squareup.com/market/upper-metal-class/bar-earrings" class="sq-embed-item">Bar Earrings from Upper Metal Class on Square Market</a>
-      
-         
-
 ### Storybook Package
 $450 ($600 Value)
 
@@ -42,6 +38,8 @@ $600 ($800 Value)
 - 8x8 Custom Photo Book
 - Personalized Mobile App 
 - Digital File Collection
+
+<a href="http://candidgiggles.com/contact/">Contact me</a> today to book your event! 
 
 > We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL
 
