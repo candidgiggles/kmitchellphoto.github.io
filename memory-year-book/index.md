@@ -28,7 +28,7 @@ The “memory year book” is a 20 page book printed on professional lustre phot
 Includes:
 
 - Five hours of photography, which can be divided among multiple events 
-- One 20 page 8x10 custom designed photo book 
+- One 20 page 8x8 custom designed photo book 
 - A shareable mobile app of selected photos
 - Private online gallery for purchasing prints a la carte 
 					
