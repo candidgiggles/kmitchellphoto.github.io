@@ -46,7 +46,7 @@ published: true
     </tr>
    <tr>
    <td>20 x 24</td>
-    <td>$60</td>
+    <td>$80</td>
     </tr>
   </table>
   
