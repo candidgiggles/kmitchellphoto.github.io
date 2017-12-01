@@ -69,8 +69,8 @@ zoom13: /portfolio/Family/Jorie-30.jpg
 alt13: 
 category13: family
 
-thumb14: /portfolio/Family/FamilyThumbnails/Grimes-5.jpg
-zoom14: /portfolio/Family/Grimes-5.jpg
+thumb14: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
+zoom14: /portfolio/Family/Bates-34.jpg
 alt14: 
 category14: family
 
@@ -164,8 +164,8 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
-zoom33: /portfolio/Family/Bates-34.jpg
+thumb33: /portfolio/Family/FamilyThumbnails/Grimes-5.jpg
+zoom33: /portfolio/Family/Grimes-5.jpg
 alt33: 
 category33: family
 
