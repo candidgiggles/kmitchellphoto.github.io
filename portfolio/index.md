@@ -194,10 +194,10 @@ zoom38: /portfolio/Toddlers/Teddy-6.jpg
 alt38: 
 category38: toddlers
 
-thumb39: /portfolio/Family/FamilyThumbnails/EdenHalloween-10.jpg
-zoom39: /portfolio/Family/EdenHalloween-10.jpg
+thumb39: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Tina-3.jpg
+zoom39: /portfolio/HeadshotsbyKimberly/Tina-3.jpg
 alt39: 
-category39: family
+category39: headshots by kimberly
 
 thumb40: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
 zoom40: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
@@ -224,14 +224,9 @@ zoom44: /portfolio/Events/Engagement Party-2.jpg
 alt44: 
 category44: events
 
-thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Tina-3.jpg
-zoom45: /portfolio/HeadshotsbyKimberly/Tina-3.jpg
+thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
+zoom45: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt45: 
 category45: headshots by kimberly
-
-thumb46: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
-zoom46: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
-alt46: 
-category46: headshots by kimberly
 
 ---
