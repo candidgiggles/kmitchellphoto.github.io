@@ -99,8 +99,8 @@ zoom19: /portfolio/Seniors/Nia Prom-80.jpg
 alt19: 
 category19: seniors
 
-thumb20: /portfolio/Seniors/SeniorThumbnails/Jorie-41.jpg
-zoom20: /portfolio/Seniors/Jorie-41.jpg
+thumb20: /portfolio/Seniors/SeniorThumbnails/Jaya-20.jpg
+zoom20: /portfolio/Seniors/Jaya-20.jpg
 alt20: 
 category20: seniors
 
@@ -174,20 +174,20 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Seniors/SeniorThumbnails/Jorie-2.jpg
-zoom35: /portfolio/Seniors/Jorie-2.jpg
+thumb35: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
+zoom35: /portfolio/Family/Kathleen.jpg
 alt35: 
-category35: seniors
+category35: family
 
 thumb36: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
 zoom36: /portfolio/Seniors/Lauren16-18.jpg
 alt36: 
 category36: seniors
 
-thumb37: /portfolio/Events/EventThumbnails/Alexis16-25.jpg
-zoom37: /portfolio/Events/Alexis16-25.jpg
+thumb37: /portfolio/Seniors/SeniorThumbnails/Jorie-41.jpg
+zoom37: /portfolio/Seniors/Jorie-41.jpg
 alt37: 
-category37: events
+category37: seniors
 
 thumb38: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
 zoom38: /portfolio/Toddlers/Teddy-6.jpg
