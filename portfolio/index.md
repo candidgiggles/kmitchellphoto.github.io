@@ -129,8 +129,8 @@ zoom25: /portfolio/Family/Ari.jpg
 alt25: 
 category25: family
 
-thumb26: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
-zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
+thumb26: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Jessica-8.jpg
+zoom26: /portfolio/HeadshotsbyKimberly/Jessica-8.jpg
 alt26: 
 category26: headshots by kimberly
 
@@ -229,8 +229,8 @@ zoom45: /portfolio/HeadshotsbyKimberly/Tina-3.jpg
 alt45: 
 category45: headshots by kimberly
 
-thumb46: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Jessica-8.jpg
-zoom46: /portfolio/HeadshotsbyKimberly/Jessica-8.jpg
+thumb46: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
+zoom46: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt46: 
 category46: headshots by kimberly
 
