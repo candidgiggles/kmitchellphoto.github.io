@@ -164,10 +164,10 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Toddlers/ToddlerThumbnails/Maeve-11.jpg
-zoom33: /portfolio/Toddlers/Maeve-11.jpg
+thumb33: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
+zoom33: /portfolio/Family/Bates-34.jpg
 alt33: 
-category33: toddlers
+category33: family
 
 thumb34: /portfolio/Family/FamilyThumbnails/Kauffman-17.jpg
 zoom34: /portfolio/Family/Kauffman-17.jpg
