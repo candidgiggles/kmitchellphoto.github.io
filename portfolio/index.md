@@ -54,8 +54,8 @@ zoom10: /portfolio/Toddlers/Phoebe-1.jpg
 alt10: 
 category10: toddlers
 
-thumb11: /portfolio/Events/EventThumbnails/Engagement Party-12.jpg
-zoom11: /portfolio/Events/Engagement Party-12.jpg
+thumb11: /portfolio/Events/EventThumbnails/Winston-8.jpg
+zoom11: /portfolio/Events/Winston-8.jpg
 alt11: 
 category11: events
 
