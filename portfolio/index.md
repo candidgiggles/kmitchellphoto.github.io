@@ -174,10 +174,10 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Seniors/SeniorThumbnails/Lauren-53.jpg
-zoom35: /portfolio/Seniors/Lauren-53.jpg
+thumb35: /portfolio/Events/EventThumbnails/Shower-18.jpg
+zoom35: /portfolio/Events/Shower-18.jpg
 alt35: 
-category35: seniors
+category35: events
 
 thumb36: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
 zoom36: /portfolio/Seniors/Lauren16-18.jpg
