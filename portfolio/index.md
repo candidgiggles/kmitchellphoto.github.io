@@ -39,8 +39,8 @@ zoom7: /portfolio/Family/Kathleen.jpg
 alt7: 
 category7: family
 
-thumb8: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
-zoom8: /portfolio/Toddlers/Bates-22.jpg
+thumb8: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
+zoom8: /portfolio/Toddlers/Teddy-6.jpg
 alt8: 
 category8: toddlers
 
@@ -189,8 +189,8 @@ zoom37: /portfolio/Seniors/Jorie-41.jpg
 alt37: 
 category37: seniors
 
-thumb38: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
-zoom38: /portfolio/Toddlers/Teddy-6.jpg
+thumb38: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
+zoom38: /portfolio/Toddlers/Bates-22.jpg
 alt38: 
 category38: toddlers
 
