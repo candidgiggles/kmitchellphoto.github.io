@@ -34,10 +34,10 @@ zoom6: /portfolio/Family/Turpeau-8.jpg
 alt6: 
 category6: family
 
-thumb7: /portfolio/Seniors/SeniorThumbnails/Lauren-53.jpg
-zoom7: /portfolio/Seniors/Lauren-53.jpg
+thumb7: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
+zoom7: /portfolio/Family/Kathleen.jpg
 alt7: 
-category7: seniors
+category7: family
 
 thumb8: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
 zoom8: /portfolio/Toddlers/Bates-22.jpg
@@ -174,10 +174,10 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
-zoom35: /portfolio/Family/Kathleen.jpg
+thumb35: /portfolio/Seniors/SeniorThumbnails/Lauren-53.jpg
+zoom35: /portfolio/Seniors/Lauren-53.jpg
 alt35: 
-category35: family
+category35: seniors
 
 thumb36: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
 zoom36: /portfolio/Seniors/Lauren16-18.jpg
