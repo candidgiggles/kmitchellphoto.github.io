@@ -49,10 +49,10 @@ zoom9: /portfolio/Family/Gardner-6.jpg
 alt9: 
 category9: family
 
-thumb10: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
-zoom10: /portfolio/Toddlers/Phoebe-1.jpg
+thumb10: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
+zoom10: /portfolio/Family/Bates-34.jpg
 alt10: 
-category10: toddlers
+category10: family
 
 thumb11: /portfolio/Events/EventThumbnails/Winston-8.jpg
 zoom11: /portfolio/Events/Winston-8.jpg
@@ -69,10 +69,10 @@ zoom13: /portfolio/Family/Jorie-30.jpg
 alt13: 
 category13: family
 
-thumb14: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
-zoom14: /portfolio/Family/Bates-34.jpg
+thumb14: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
+zoom14: /portfolio/Toddlers/Phoebe-1.jpg
 alt14: 
-category14: family
+category14: toddlers
 
 thumb15: /portfolio/Toddlers/ToddlerThumbnails/Fairley-17.jpg
 zoom15: /portfolio/Toddlers/Fairley-17.jpg
@@ -179,10 +179,10 @@ zoom35: /portfolio/Events/Shower-18.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/Seniors/SeniorThumbnails/Lauren16-18.jpg
-zoom36: /portfolio/Seniors/Lauren16-18.jpg
+thumb36: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
+zoom36: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
 alt36: 
-category36: seniors
+category36: headshots by kimberly
 
 thumb37: /portfolio/Seniors/SeniorThumbnails/Jorie-41.jpg
 zoom37: /portfolio/Seniors/Jorie-41.jpg
@@ -214,19 +214,14 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
-zoom43: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+thumb43: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
+zoom43: /portfolio/Events/Engagement Party-2.jpg
 alt43: 
-category43: headshots by kimberly
+category43: events
 
-thumb44: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
-zoom44: /portfolio/Events/Engagement Party-2.jpg
+thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
+zoom44: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt44: 
-category44: events
-
-thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
-zoom45: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
-alt45: 
-category45: headshots by kimberly
+category44: headshots by kimberly
 
 ---
