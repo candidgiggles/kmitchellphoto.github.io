@@ -124,10 +124,10 @@ zoom24: /portfolio/Family/Ross-19.jpg
 alt24: 
 category24: family
 
-thumb25: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Dana Dolan-8.jpg
-zoom25: /portfolio/HeadshotsbyKimberly/Dana Dolan-8.jpg
+thumb25: /portfolio/Family/FamilyThumbnails/Ari.jpg
+zoom25: /portfolio/Family/Ari.jpg
 alt25: 
-category25: headshots by kimberly
+category25: family
 
 thumb26: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
 zoom26: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
@@ -223,5 +223,15 @@ thumb44: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
 zoom44: /portfolio/Events/Engagement Party-2.jpg
 alt44: 
 category44: events
+
+thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Tina-3.jpg
+zoom45: /portfolio/HeadshotsbyKimberly/Tina-3.jpg
+alt45: 
+category45: headshots by kimberly
+
+thumb46: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Jessica-8.jpg
+zoom46: /portfolio/HeadshotsbyKimberly/Jessica-8.jpg
+alt46: 
+category46: headshots by kimberly
 
 ---
