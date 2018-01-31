@@ -1,5 +1,5 @@
 ---
-layout: 1column
+layout: fullwidth
 title: Pricing Information
 permalink: "/pricing-information/"
 published: true
