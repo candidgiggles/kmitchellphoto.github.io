@@ -5,11 +5,11 @@ permalink: "/senior-sessions/"
 published: true
 slide1: "/senior-sessions/Senior2.jpg"
 alt1: Slide 1
-slide2: "/senior-sessions/Senior4.jpg"
+slide2: "/senior-sessions/Senior6.jpg"
 alt2: Slide 3
 slide3: "/senior-sessions/Senior3.jpg"
 alt3: Slide 3
-slide4: "/senior-sessions/Senior1.jpg"
+slide4: "/senior-sessions/Senior4.jpg"
 alt4: Slide 4
 slide5: "/senior-sessions/Senior5.jpg"
 alt5: Slide 5
