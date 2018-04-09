@@ -15,7 +15,7 @@ post2: Senior sessions are designed for high school seniors who want to show off
 link2: /senior-sessions/
 
 title3: Game Day Sessions
-img3: /game-day-sessions/Game6.jpg
+img3: /game-day-sessions/Game7.jpg
 post3: Sit back and enjoy your child’s game while I do the hard work of capturing all the action and highlights. At Game Day Sessions I will photograph your child and their team interactions for the duration of the game.
 link3: /game-day-sessions/
 
