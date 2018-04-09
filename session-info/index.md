@@ -25,7 +25,7 @@ post4: Candid Giggles Photography offers event photography coverage for events u
 link4: /event-photography/
 
 title5: Memory Year Book
-img4: /memory-year-book/Memory1.jpg
-post4: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
-link4: /memory-year-book/
+img5: /memory-year-book/Memory1.jpg
+post5: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
+link5: /memory-year-book/
 ---
