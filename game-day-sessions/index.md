@@ -1,36 +1,22 @@
 ---
 layout: fullpostinfo
-title: Senior Sessions
-permalink: "/senior-sessions/"
+title: Game Day Sessions
+permalink: /game-day-sessions/
 published: true
-slide1: "/senior-sessions/Senior2.jpg"
+
+slide1: /family-sessions/Family4.jpg
 alt1: Slide 1
-slide2: "/senior-sessions/Senior6.jpg"
-alt2: Slide 3
-slide3: "/senior-sessions/Senior3.jpg"
+
+slide2: /family-sessions/Family2.jpg
+alt2: Slide 2
+
+slide3: /family-sessions/Family3.jpg
 alt3: Slide 3
-slide4: "/senior-sessions/Senior4.jpg"
+
+slide4: /family-sessions/Family6.jpg
 alt4: Slide 4
-slide5: "/senior-sessions/Senior5.jpg"
+
+slide5: /family-sessions/Family5.jpg
 alt5: Slide 5
 ---
-
-Senior sessions are designed for high school seniors who want to show off their achievements with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session. If you need graduation invitations, announcements, or thank you cards, a package can be customized to fit your needs. Ideally this session would take place the summer before the student’s senior year, however it can be scheduled at any time. 
-
-High school seniors are welcome to bring their cap & gowns and a change of clothes if they wish. Also they are encouraged to bring any sports equiment, musical instruments, letter jackets, or other high school memorabilia to show off their accomplishments from the year.
-
-### Senior Session
-$150 for a one hour session at the location of your choice and include a $50 credit toward prints or products. <a href="http://candidgiggles.com/pricing-information/">Click here</a> for the full price list. 
-
-### Cap & Gown Session
-$225
-Includes:
-- One hour session at the location of your choice
-- Up to 2 outfit changes (optional) 
-- 8x10 Print
-- 25-5×7 flat graduation announcements or invitations
-- Private online gallery for purchasing prints a la carte
-
-Requires a $100 deposit
-
-
+Sit back and enjoy your child's game while I do the hard work of capturing all the action and highlights. At Game Day Sessions I will photograph your child and their team interactions for the duration of the game. The Game Day Package is $150 and includes 10 hi-resolution digial images. Prints and products are sold a la carte so that you can order exactly what you need to decorate your home or gift away. Additional prints and products are sold a la carte at a discount. If your child is an 8th grader or high school senior, I encourage you to invest in a <a href="http://candidgiggles.com/memory-year-book//">Memory Year Book</a>, which could include a Game Day Session.
