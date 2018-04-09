@@ -4,16 +4,16 @@ title: Family Sessions
 permalink: /family-sessions/
 published: true
 
-slide1: /family-sessions/Family4.jpg
+slide1: /family-sessions/Family6.jpg
 alt1: Slide 1
 
-slide2: /family-sessions/Family2.jpg
+slide2: /family-sessions/Family4.jpg
 alt2: Slide 2
 
 slide3: /family-sessions/Family3.jpg
 alt3: Slide 3
 
-slide4: /family-sessions/Family6.jpg
+slide4: /family-sessions/Family2.jpg
 alt4: Slide 4
 
 slide5: /family-sessions/Family5.jpg
