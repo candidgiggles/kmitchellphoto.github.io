@@ -74,8 +74,8 @@ zoom14: /portfolio/Toddlers/Phoebe-1.jpg
 alt14: 
 category14: toddlers
 
-thumb15: /portfolio/Toddlers/ToddlerThumbnails/Fairley-17.jpg
-zoom15: /portfolio/Toddlers/Fairley-17.jpg
+thumb15: /portfolio/Toddlers/ToddlerThumbnails/Isabella-11.jpg
+zoom15: /portfolio/Toddlers/Isabella-11.jpg
 alt15: 
 category15: toddlers
 
@@ -134,8 +134,8 @@ zoom26: /portfolio/HeadshotsbyKimberly/Jessica-8.jpg
 alt26: 
 category26: headshots by kimberly
 
-thumb27: /portfolio/Events/EventThumbnails/Alexis16-2.jpg
-zoom27: /portfolio/Events/Alexis16-2.jpg
+thumb27: /portfolio/Events/EventThumbnails/Nya-41.jpg
+zoom27: /portfolio/Events/Nya-41.jpg
 alt27: 
 category27: events
 
@@ -223,5 +223,10 @@ thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
 zoom44: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt44: 
 category44: headshots by kimberly
+
+thumb45: /portfolio/Toddlers/ToddlerThumbnails/Fairley-17.jpg
+zoom45: /portfolio/Toddlers/Fairley-17.jpg
+alt45: 
+category45: toddlers
 
 ---
