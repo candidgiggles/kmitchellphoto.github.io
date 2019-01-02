@@ -1,5 +1,5 @@
 ---
-layout: fullwidth
+layout: fullpostinfo
 title: Client Testimonials
 permalink: "/client-testimonials/"
 published: true
