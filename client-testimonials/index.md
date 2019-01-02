@@ -1,11 +1,23 @@
 ---
 layout: fullpostinfo
 title: Client Testimonials
-permalink: "/client-testimonials/"
+permalink: /client-testimonials/
 published: true
 
 slide1:/client-testimonials/HimaliTestimonial.jpg
 alt1: Slide 1
+
+slide2: /family-sessions/Family4.jpg
+alt2: Slide 2
+
+slide3: /family-sessions/Family3.jpg
+alt3: Slide 3
+
+slide4: /family-sessions/Family2.jpg
+alt4: Slide 4
+
+slide5: /family-sessions/Family5.jpg
+alt5: Slide 5
 ---
 
 > Kimberly Mitchell, owner of Candid Giggles Photography demonstrated top notch professionalism during our family photo shoot. I highly recommend Kim to take your family or individual photos!- Kalisha H., Flossmoor, IL
