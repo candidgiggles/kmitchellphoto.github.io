@@ -136,7 +136,7 @@ published: true
     <td>$225</td>
     </tr>
    <tr>
-   <td>Graduation Announcements</td>
-    <td>$4 each</td>
+   <td>5 x 7 Flat Cards</td>
+    <td>$3 each</td>
     </tr>
    </table>
