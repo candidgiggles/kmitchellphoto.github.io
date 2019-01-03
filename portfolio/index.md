@@ -24,10 +24,10 @@ zoom4: /portfolio/Family/Bates-58.jpg
 alt4: 
 category4: family
 
-thumb5: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
-zoom5: /portfolio/Seniors/Danielle-28.jpg
+thumb5: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom5: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt5: 
-category5: seniors
+category5: headshots by kimberly
 
 thumb6: /portfolio/Family/FamilyThumbnails/Turpeau-8.jpg
 zoom6: /portfolio/Family/Turpeau-8.jpg
@@ -69,10 +69,10 @@ zoom13: /portfolio/Family/Barone-15.jpg
 alt13: 
 category13: family
 
-thumb14: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
-zoom14: /portfolio/Toddlers/Phoebe-1.jpg
+thumb14: /portfolio/Events/EventThumbnails/Party-14.jpg
+zoom14: /portfolio/Events/Party-14.jpg
 alt14: 
-category14: toddlers
+category14: events
 
 thumb15: /portfolio/Toddlers/ToddlerThumbnails/Isabella-11.jpg
 zoom15: /portfolio/Toddlers/Isabella-11.jpg
@@ -179,10 +179,10 @@ zoom35: /portfolio/Events/Shower-18.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
-zoom36: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
+thumb36: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
+zoom36: /portfolio/Seniors/Danielle-28.jpg
 alt36: 
-category36: headshots by kimberly
+category36: seniors
 
 thumb37: /portfolio/Seniors/SeniorThumbnails/Grad-62.jpg
 zoom37: /portfolio/Seniors/Grad-62.jpg
@@ -214,15 +214,15 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/Events/EventThumbnails/Party-14.jpg
-zoom43: /portfolio/Events/Party-14.jpg
+thumb43: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
+zoom43: /portfolio/Toddlers/Phoebe-1.jpg
 alt43: 
-category43: events
+category43: toddlers
 
-thumb44: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-24.jpg
-zoom44: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
+thumb44: 
+zoom44: 
 alt44: 
-category44: headshots by kimberly
+category44: 
 
 thumb45: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
 zoom45: /portfolio/Family/Beal-30.jpg
