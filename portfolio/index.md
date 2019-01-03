@@ -4,8 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 published: true
 
-thumb1: /portfolio/Family/FamilyThumbnails/Barone-15.jpg
-zoom1: /portfolio/Family/Barone-15.jpg
+thumb1: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
+zoom1: /portfolio/Family/Jorie-30.jpg
 alt1: Family
 category1: family
 
@@ -19,8 +19,8 @@ zoom3: /portfolio/Seniors/Shelby-33.jpg
 alt3: 
 category3: seniors
 
-thumb4: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
-zoom4: /portfolio/Family/Beal-19.jpg
+thumb4: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
+zoom4: /portfolio/Family/Bates-58.jpg
 alt4: 
 category4: family
 
@@ -64,8 +64,8 @@ zoom12: /portfolio/Seniors/Jeremy-14.jpg
 alt12: 
 category12: seniors
 
-thumb13: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
-zoom13: /portfolio/Family/Jorie-30.jpg
+thumb13: /portfolio/Family/FamilyThumbnails/Barone-15.jpg
+zoom13: /portfolio/Family/Barone-15.jpg
 alt13: 
 category13: family
 
@@ -89,10 +89,10 @@ zoom17: /portfolio/Toddlers/Teddy-22.jpg
 alt17: 
 category17: toddlers
 
-thumb18: /portfolio/Seniors/SeniorThumbnails/Marian Prom-8.jpg
-zoom18: /portfolio/Seniors/Marian Prom-8.jpg
+thumb18: /portfolio/Events/EventThumbnails/Sydney-36.jpg
+zoom18: /portfolio/Events/Sydney-36.jpg
 alt18: 
-category18: seniors
+category18: events
 
 thumb19: /portfolio/Seniors/SeniorThumbnails/Nia Prom-80.jpg
 zoom19: /portfolio/Seniors/Nia Prom-80.jpg
@@ -139,8 +139,8 @@ zoom27: /portfolio/Events/Nya-41.jpg
 alt27: 
 category27: events
 
-thumb28: /portfolio/Family/FamilyThumbnails/Candid_Giggles_3697.jpg
-zoom28: /portfolio/Family/Candid_Giggles_3697.jpg
+thumb28: /portfolio/Family/FamilyThumbnails/Goeld-38.jpg
+zoom28: /portfolio/Family/Goeld-38.jpg
 alt28: 
 category28: family
 
@@ -149,10 +149,10 @@ zoom29: /portfolio/Toddlers/Madison-3.jpg
 alt29: 
 category29: toddlers
 
-thumb30: /portfolio/Events/EventThumbnails/Teddy Bridal-7.jpg
-zoom30: /portfolio/Events/Teddy Bridal-7.jpg
+thumb30: /portfolio/Events/Family/FamilyThumbnails/IMG_6083.jpg
+zoom30: /portfolio/Events/Family/IMG_6083.jpg
 alt30: 
-category30: events
+category30: family
 
 thumb31: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
 zoom31: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
@@ -164,8 +164,8 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Family/FamilyThumbnails/Grimes-5.jpg
-zoom33: /portfolio/Family/Grimes-5.jpg
+thumb33: /portfolio/Family/FamilyThumbnails/Mac-64.jpg
+zoom33: /portfolio/Family/Mac-64.jpg
 alt33: 
 category33: family
 
@@ -179,13 +179,13 @@ zoom35: /portfolio/Events/Shower-18.jpg
 alt35: 
 category35: events
 
-thumb36: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Latonya-2.jpg
-zoom36: /portfolio/HeadshotsbyKimberly/Latonya-2.jpg
+thumb36: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom36: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt36: 
 category36: headshots by kimberly
 
-thumb37: /portfolio/Seniors/SeniorThumbnails/Jorie-41.jpg
-zoom37: /portfolio/Seniors/Jorie-41.jpg
+thumb37: /portfolio/Seniors/SeniorThumbnails/Grad-62.jpg
+zoom37: /portfolio/Seniors/Grad-62.jpg
 alt37: 
 category37: seniors
 
@@ -194,10 +194,10 @@ zoom38: /portfolio/Toddlers/Bates-22.jpg
 alt38: 
 category38: toddlers
 
-thumb39: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Tina-3.jpg
-zoom39: /portfolio/HeadshotsbyKimberly/Tina-3.jpg
+thumb39: /portfolio/Seniors/SeniorThumbnails/Chloe-16.jpg
+zoom39: /portfolio/Seniors/Chloe-16.jpg
 alt39: 
-category39: headshots by kimberly
+category39: seniors
 
 thumb40: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
 zoom40: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
@@ -214,8 +214,8 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/Events/EventThumbnails/Engagement Party-2.jpg
-zoom43: /portfolio/Events/Engagement Party-2.jpg
+thumb43: /portfolio/Events/EventThumbnails/Party-14.jpg
+zoom43: /portfolio/Events/Party-14.jpg
 alt43: 
 category43: events
 
@@ -224,9 +224,9 @@ zoom44: /portfolio/HeadshotsbyKimberly/CLG-24.jpg
 alt44: 
 category44: headshots by kimberly
 
-thumb45: /portfolio/Toddlers/ToddlerThumbnails/Fairley-17.jpg
-zoom45: /portfolio/Toddlers/Fairley-17.jpg
+thumb45: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
+zoom45: /portfolio/Family/Beal-30.jpg
 alt45: 
-category45: toddlers
+category45: family
 
 ---
