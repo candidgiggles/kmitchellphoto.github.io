@@ -149,10 +149,10 @@ zoom29: /portfolio/Toddlers/Madison-3.jpg
 alt29: 
 category29: toddlers
 
-thumb30: /portfolio/Events/Family/FamilyThumbnails/IMG_6083.jpg
-zoom30: /portfolio/Events/Family/IMG_6083.jpg
+thumb30: /portfolio/Events/EventThumbnails/Prom-103.jpg
+zoom30: /portfolio/Events/Prom-103.jpg
 alt30: 
-category30: family
+category30: events
 
 thumb31: /portfolio/Seniors/SeniorThumbnails/Grad-62.jpg
 zoom31: /portfolio/Seniors/Grad-62.jpg
@@ -174,10 +174,10 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Events/EventThumbnails/Prom-103.jpg
-zoom35: /portfolio/Events/Prom-103.jpg
+thumb35: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
+zoom35: /portfolio/Family/Beal-30.jpg
 alt35: 
-category35: events
+category35: family
 
 thumb36: /portfolio/Seniors/SeniorThumbnails/Danielle-28.jpg
 zoom36: /portfolio/Seniors/Danielle-28.jpg
@@ -219,9 +219,9 @@ zoom43: /portfolio/Toddlers/Phoebe-1.jpg
 alt43: 
 category43: toddlers 
 
-thumb44: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
-zoom44: /portfolio/Family/Beal-30.jpg
+thumb44: 
+zoom44: 
 alt44: 
-category44: family
+category44: 
 
 ---
