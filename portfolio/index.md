@@ -34,10 +34,10 @@ zoom6: /portfolio/Family/PraiseandWorship2.jpg
 alt6: 
 category6: family
 
-thumb7: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
-zoom7: /portfolio/Family/Kathleen.jpg
+thumb7: /portfolio/Events/EventThumbnails/Winston-8.jpg
+zoom7: 
 alt7: 
-category7: family
+category7: events
 
 thumb8: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
 zoom8: /portfolio/Toddlers/Teddy-6.jpg
@@ -54,10 +54,10 @@ zoom10: /portfolio/Family/Bates-34.jpg
 alt10: 
 category10: family
 
-thumb11: /portfolio/Events/EventThumbnails/Winston-8.jpg
-zoom11: /portfolio/Events/Winston-8.jpg
+thumb11: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
+zoom11: /portfolio/Family/Kathleen.jpg
 alt11: 
-category11: events
+category11: family
 
 thumb12: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
 zoom12: /portfolio/Seniors/Jeremy-14.jpg
@@ -174,8 +174,8 @@ zoom34: /portfolio/Family/Kauffman-17.jpg
 alt34: 
 category34: family
 
-thumb35: /portfolio/Events/EventThumbnails/Shower-18.jpg
-zoom35: /portfolio/Events/Shower-18.jpg
+thumb35: /portfolio/Events/EventThumbnails/Prom-103.jpg
+zoom35: /portfolio/Events/Prom-103.jpg
 alt35: 
 category35: events
 
