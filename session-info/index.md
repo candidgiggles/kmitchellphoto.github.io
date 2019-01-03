@@ -5,7 +5,7 @@ permalink: /session-info/
 published: true
 
 title1: Family Sessions
-img1: /family-sessions/Family1.jpg
+img1: /family-sessions/Family7.jpg
 post1: Family Sessions are 60 minute sessions held at the location of your choice where I will capture a mixture of portraits and candid shots of your family together. 
 link1: /family-sessions/
 
@@ -28,4 +28,9 @@ title5: Memory Year Book
 img5: /memory-year-book/Memory1.jpg
 post5: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
 link5: /memory-year-book/
+
+title6: Headshot Photography
+img6: /Headshots/Jorie-16.jpg
+post6: Headshot sessions are 30 minutes, on-location sessions that include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also a group shot, if desired. $20 per additional person. Location can be outdoor, in office, or with a white or black background.
+link5: /portfolio/
 ---
