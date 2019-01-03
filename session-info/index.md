@@ -31,6 +31,6 @@ link5: /memory-year-book/
 
 title6: Headshot Photography
 img6: /headshot-sessions/Headshots1.jpg
-post6: Headshot sessions are $175 for 30 minutes and include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also a group shot, if desired. $20 per additional person. Location can be outdoor, in office, or with a white or black background.
+post6: Headshot sessions are $175 for 30 minutes and include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also include a group shot, if desired. $20 per each additional person. Location can be outdoor, in office, or with a white or black background.
 link6: /portfolio/
 ---
