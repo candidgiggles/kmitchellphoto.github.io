@@ -154,10 +154,10 @@ zoom30: /portfolio/Events/Family/IMG_6083.jpg
 alt30: 
 category30: family
 
-thumb31: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
-zoom31: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
+thumb31: /portfolio/Seniors/SeniorThumbnails/Grad-62.jpg
+zoom31: /portfolio/Seniors/Grad-62.jpg
 alt31: 
-category31: headshots by kimberly
+category31: seniors
 
 thumb32: /portfolio/Toddlers/ToddlerThumbnails/Talley-2.jpg
 zoom32: /portfolio/Toddlers/Talley-2.jpg
@@ -184,10 +184,10 @@ zoom36: /portfolio/Seniors/Danielle-28.jpg
 alt36: 
 category36: seniors
 
-thumb37: /portfolio/Seniors/SeniorThumbnails/Grad-62.jpg
-zoom37: /portfolio/Seniors/Grad-62.jpg
+thumb37: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Christine-8.jpg
+zoom37: /portfolio/HeadshotsbyKimberly/Christine-8.jpg
 alt37: 
-category37: seniors
+category37: headshots by kimberly
 
 thumb38: /portfolio/Events/EventThumbnails/Prom-15.jpg
 zoom38: /portfolio/Events/EventThumbnails/Prom-15.jpg
