@@ -29,8 +29,8 @@ zoom5: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt5: 
 category5: headshots by kimberly
 
-thumb6: /portfolio/Family/FamilyThumbnails/Turpeau-8.jpg
-zoom6: /portfolio/Family/Turpeau-8.jpg
+thumb6: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
+zoom6: /portfolio/Family/PraiseandWorship2.jpg
 alt6: 
 category6: family
 
