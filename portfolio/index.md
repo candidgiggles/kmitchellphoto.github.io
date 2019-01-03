@@ -189,10 +189,10 @@ zoom37: /portfolio/Seniors/Grad-62.jpg
 alt37: 
 category37: seniors
 
-thumb38: /portfolio/Toddlers/ToddlerThumbnails/Bates-22.jpg
-zoom38: /portfolio/Toddlers/Bates-22.jpg
+thumb38: /portfolio/Events/EventThumbnails/Prom-15.jpg
+zoom38: /portfolio/Events/EventThumbnails/Prom-15.jpg
 alt38: 
-category38: toddlers
+category38: events
 
 thumb39: /portfolio/Seniors/SeniorThumbnails/Chloe-16.jpg
 zoom39: /portfolio/Seniors/Chloe-16.jpg
@@ -217,16 +217,11 @@ category42: headshots by kimberly
 thumb43: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
 zoom43: /portfolio/Toddlers/Phoebe-1.jpg
 alt43: 
-category43: toddlers
+category43: toddlers 
 
-thumb44: 
-zoom44: 
+thumb44: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
+zoom44: /portfolio/Family/Beal-30.jpg
 alt44: 
-category44: 
-
-thumb45: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
-zoom45: /portfolio/Family/Beal-30.jpg
-alt45: 
-category45: family
+category44: family
 
 ---
