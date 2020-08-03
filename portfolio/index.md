@@ -109,10 +109,10 @@ zoom21: /portfolio/Seniors/TaiylarBall-8.jpg
 alt21: 
 category21: seniors
 
-thumb22: /portfolio/Family/FamilyThumbnails/Candid_Giggles_5937-1.jpg
-zoom22: /portfolio/Family/Candid_Giggles_5937-1.jpg
+thumb22: /portfolio/Senior/SeniorThumbnails/NiaGrad-14.jpg
+zoom22: /portfolio/Senior/NiaGrad-14.jpg
 alt22: 
-category22: family
+category22: seniors
 
 thumb23: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
 zoom23: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
