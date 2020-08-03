@@ -1,5 +1,5 @@
 ---
-layout: fullpostinfo
+layout: fullpostinfocontact
 title: Senior Sessions
 permalink: "/senior-sessions/"
 published: true
