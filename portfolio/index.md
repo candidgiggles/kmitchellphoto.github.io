@@ -4,30 +4,30 @@ title: Portfolio
 permalink: /portfolio/
 published: true
 
-thumb1: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
-zoom1: /portfolio/Family/Jorie-30.jpg
-alt1: Family
-category1: family
+thumb1: /portfolio/Seniors/SeniorThumbnails/Kyla.jpg
+zoom1: /portfolio/Seniors/Kyla.jpg
+alt1: 
+category1: seniors
 
-thumb2: /portfolio/Family/FamilyThumbnails/Baptiste-15.jpg
-zoom2: /portfolio//Family/Baptiste-15.jpg
+thumb2: /portfolio/Seniors/SeniorThumbnails/NiaGrad-14.jpg
+zoom2: /portfolio/Seniors/NiaGrad-14.jpg
 alt2: 
-category2: family
+category2: seniors
 
-thumb3: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
-zoom3: /portfolio/Seniors/Shelby-33.jpg
-alt3: 
-category3: seniors
+thumb3: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
+zoom3: /portfolio/Family/Jorie-30.jpg
+alt3: Family
+category3: family
 
-thumb4: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
-zoom4: /portfolio/Family/Bates-58.jpg
+thumb4: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
+zoom4: /portfolio/Seniors/Shelby-33.jpg
 alt4: 
-category4: family
+category4: seniors
 
-thumb5: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
-zoom5: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
+thumb5: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
+zoom5: /portfolio/Family/Bates-58.jpg
 alt5: 
-category5: headshots by kimberly
+category5: family
 
 thumb6: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
 zoom6: /portfolio/Family/PraiseandWorship2.jpg
@@ -104,15 +104,15 @@ zoom20: /portfolio/Seniors/Jaya-20.jpg
 alt20: 
 category20: seniors
 
-thumb21: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
-zoom21: /portfolio/Seniors/TaiylarBall-8.jpg
+thumb21: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom21: /portfolioHeadshotsbyKimberly/Badia-8.jpg
 alt21: 
-category21: seniors
+category21: headshots by kimberly
 
-thumb22: /portfolio/Seniors/SeniorThumbnails/NiaGrad-14.jpg
-zoom22: /portfolio/Seniors/NiaGrad-14.jpg
+thumb22: /portfolio/Family/FamilyThumbnails/Baptiste-15.jpg
+zoom22: /portfolio/Seniors/Baptiste-15.jpg
 alt22: 
-category22: seniors
+category22: family
 
 thumb23: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
 zoom23: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
@@ -164,8 +164,8 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Seniors/SeniorThumbnails/Kyla.jpg
-zoom33: /portfolio/Seniors/Kyla.jpg
+thumb33: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
+zoom33: /portfolio/Seniors/TaiylarBall-8.jpg
 alt33: 
 category33: seniors
 
