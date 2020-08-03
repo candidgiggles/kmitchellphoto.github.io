@@ -109,8 +109,8 @@ zoom21: /portfolio/Seniors/TaiylarBall-8.jpg
 alt21: 
 category21: seniors
 
-thumb22: /portfolio/Senior/SeniorThumbnails/NiaGrad-14.jpg
-zoom22: /portfolio/Senior/NiaGrad-14.jpg
+thumb22: /portfolio/Seniors/SeniorThumbnails/NiaGrad-14.jpg
+zoom22: /portfolio/Seniors/NiaGrad-14.jpg
 alt22: 
 category22: seniors
 
@@ -164,10 +164,10 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Family/FamilyThumbnails/Mac-64.jpg
-zoom33: /portfolio/Family/Mac-64.jpg
+thumb33: /portfolio/Seniors/SeniorThumbnails/Kyla.jpg
+zoom33: /portfolio/Seniors/Kyla.jpg
 alt33: 
-category33: family
+category33: seniors
 
 thumb34: /portfolio/Family/FamilyThumbnails/Kauffman-17.jpg
 zoom34: /portfolio/Family/Kauffman-17.jpg
