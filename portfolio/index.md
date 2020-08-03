@@ -29,10 +29,10 @@ zoom5: /portfolio/Events/Yolanda-39.jpg
 alt5: 
 category5: events
 
-thumb6: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
-zoom6: /portfolio/Family/PraiseandWorship2.jpg
+thumb6: /portfolio/Seniors/SeniorThumbnails/AlexGrad-29.jpg
+zoom6: /portfolio//Seniors/AlexGrad-29.jpg
 alt6: 
-category6: family
+category6: seniors
 
 thumb7: /portfolio/Events/EventThumbnails/Winston-8.jpg
 zoom7: /portfolio/Events/Winston-8.jpg
@@ -54,8 +54,8 @@ zoom10: /portfolio/Family/Bates-34.jpg
 alt10: 
 category10: family
 
-thumb11: /portfolio/Family/FamilyThumbnails/Kathleen.jpg
-zoom11: /portfolio/Family/Kathleen.jpg
+thumb11: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
+zoom11: /portfolio/Family/PraiseandWorship2.jpg
 alt11: 
 category11: family
 
