@@ -35,14 +35,14 @@ alt6:
 category6: family
 
 thumb7: /portfolio/Events/EventThumbnails/Winston-8.jpg
-zoom7: 
+zoom7: /portfolio/Events/Winston-8.jpg
 alt7: 
 category7: events
 
-thumb8: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
-zoom8: /portfolio/Toddlers/Teddy-6.jpg
+thumb8: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
+zoom8: /portfolio/Seniors/Maya-144.jpg
 alt8: 
-category8: toddlers
+category8: seniors
 
 thumb9: /portfolio/Family/FamilyThumbnails/Gardner-6.jpg
 zoom9: /portfolio/Family/Gardner-6.jpg
@@ -219,9 +219,9 @@ zoom43: /portfolio/Toddlers/Phoebe-1.jpg
 alt43: 
 category43: toddlers 
 
-thumb44: 
-zoom44: 
+thumb44: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
+zoom44: /portfolio/Toddlers/Teddy-6.jpg
 alt44: 
-category44: 
+category44: toddler
 
 ---
