@@ -44,10 +44,10 @@ zoom8: /portfolio/Seniors/Maya-144.jpg
 alt8: 
 category8: seniors
 
-thumb9: /portfolio/Family/FamilyThumbnails/Gardner-6.jpg
-zoom9: /portfolio/Family/Gardner-6.jpg
+thumb9: /portfolio/Seniors/SeniorThumbnails/Jaya Prom-23.jpg
+zoom9: /portfolio/Seniors/Jaya Prom-23.jpg
 alt9: 
-category9: family
+category9: seniors
 
 thumb10: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
 zoom10: /portfolio/Family/Bates-34.jpg
