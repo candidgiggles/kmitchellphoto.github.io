@@ -24,10 +24,10 @@ zoom4: /portfolio/Seniors/Shelby-33.jpg
 alt4: 
 category4: seniors
 
-thumb5: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
-zoom5: /portfolio/Family/Bates-58.jpg
+thumb5: /portfolio/Events/EventThumbnails/Yolanda-39.jpg
+zoom5: /portfolio/Events/Yolanda-39.jpg
 alt5: 
-category5: family
+category5: events
 
 thumb6: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
 zoom6: /portfolio/Family/PraiseandWorship2.jpg
@@ -144,10 +144,10 @@ zoom28: /portfolio/Family/Goeld-38.jpg
 alt28: 
 category28: family
 
-thumb29: /portfolio/Toddlers/ToddlerThumbnails/Madison-3.jpg
-zoom29: /portfolio/Toddlers/Madison-3.jpg
+thumb29: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
+zoom29: /portfolio/Family/Bates-58.jpg
 alt29: 
-category29: toddlers
+category29: family
 
 thumb30: /portfolio/Events/EventThumbnails/Prom-103.jpg
 zoom30: /portfolio/Events/Prom-103.jpg
