@@ -59,20 +59,20 @@ zoom11: /portfolio/Family/PraiseandWorship2.jpg
 alt11: 
 category11: family
 
-thumb12: /portfolio/Seniors/SeniorThumbnails/Carter-46.jpg
-zoom12: /portfolio/Seniors/Carter-46.jpg
+thumb12: /portfolio/Seniors/SeniorThumbnails/Jade-70.jpg
+zoom12: /portfolio/Seniors/Jade-70.jpg
 alt12: 
-category12: seniors
+category33: seniors
 
-thumb13: /portfolio/Family/FamilyThumbnails/Barone-15.jpg
-zoom13: /portfolio/Family/Barone-15.jpg
+thumb13: /portfolio/Seniors/SeniorThumbnails/Carter-46.jpg
+zoom13: /portfolio/Seniors/Carter-46.jpg
 alt13: 
-category13: family
+category13: seniors
 
-thumb14: /portfolio/Events/EventThumbnails/Party-14.jpg
-zoom14: /portfolio/Events/Party-14.jpg
+thumb14: /portfolio/Family/FamilyThumbnails/Barone-15.jpg
+zoom14: /portfolio/Family/Barone-15.jpg
 alt14: 
-category14: events
+category14: family
 
 thumb15: /portfolio/Toddlers/ToddlerThumbnails/Isabella-11.jpg
 zoom15: /portfolio/Toddlers/Isabella-11.jpg
@@ -164,10 +164,10 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Seniors/SeniorThumbnails/Jade-70.jpg
-zoom33: /portfolio/Seniors/Jade-70.jpg
+thumb33: /portfolio/Events/EventThumbnails/Party-14.jpg
+zoom33: /portfolio/Events/Party-14.jpg
 alt33: 
-category33: seniors
+category33: events
 
 thumb34: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
 zoom34: /portfolio/Seniors/TaiylarBall-8.jpg
