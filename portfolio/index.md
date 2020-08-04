@@ -226,7 +226,7 @@ category44: toddler
 
 thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
 zoom45: /portfolio/Seniors/Jeremy-14.jpg
-alt12: 
+alt45: 
 category45: seniors
 
 ---
