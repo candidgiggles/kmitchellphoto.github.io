@@ -129,10 +129,10 @@ zoom25: /portfolio/Family/Ari.jpg
 alt25: 
 category25: family
 
-thumb26: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Jessica-8.jpg
-zoom26: /portfolio/HeadshotsbyKimberly/Jessica-8.jpg
+thumb26: /portfolio/Seniors/SeniorThumbnails/Aria-41.jpg
+zoom26: /portfolio/Seniors/Aria-41.jpg
 alt26: 
-category26: headshots by kimberly
+category26: seniors
 
 thumb27: /portfolio/Events/EventThumbnails/Nya-41.jpg
 zoom27: /portfolio/Events/Nya-41.jpg
