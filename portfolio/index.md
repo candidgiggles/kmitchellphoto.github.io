@@ -164,15 +164,15 @@ zoom32: /portfolio/Toddlers/Talley-2.jpg
 alt32: 
 category32: toddlers
 
-thumb33: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
-zoom33: /portfolio/Seniors/TaiylarBall-8.jpg
+thumb33: /portfolio/Seniors/SeniorThumbnails/Jade-70.jpg
+zoom33: /portfolio/Seniors/Jade-70.jpg
 alt33: 
 category33: seniors
 
-thumb34: /portfolio/Family/FamilyThumbnails/Kauffman-17.jpg
-zoom34: /portfolio/Family/Kauffman-17.jpg
+thumb34: /portfolio/Seniors/SeniorThumbnails/TaiylarBall-8.jpg
+zoom34: /portfolio/Seniors/TaiylarBall-8.jpg
 alt34: 
-category34: family
+category34: seniors
 
 thumb35: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
 zoom35: /portfolio/Family/Beal-30.jpg
