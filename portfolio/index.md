@@ -59,8 +59,8 @@ zoom11: /portfolio/Family/PraiseandWorship2.jpg
 alt11: 
 category11: family
 
-thumb12: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom12: /portfolio/Seniors/Jeremy-14.jpg
+thumb12: /portfolio/Seniors/SeniorThumbnails/Carter-46.jpg
+zoom12: /portfolio/Seniors/Carter-46.jpg
 alt12: 
 category12: seniors
 
@@ -223,5 +223,10 @@ thumb44: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
 zoom44: /portfolio/Toddlers/Teddy-6.jpg
 alt44: 
 category44: toddler
+
+thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom45: /portfolio/Seniors/Jeremy-14.jpg
+alt12: 
+category45: seniors
 
 ---
