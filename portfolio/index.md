@@ -222,7 +222,7 @@ category43: toddlers
 thumb44: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
 zoom44: /portfolio/Toddlers/Teddy-6.jpg
 alt44: 
-category44: toddler
+category44: toddlers
 
 thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
 zoom45: /portfolio/Seniors/Jeremy-14.jpg
