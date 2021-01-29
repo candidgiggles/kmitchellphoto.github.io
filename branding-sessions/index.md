@@ -1,24 +1,17 @@
 ---
 layout: fullpostinfo
-title: Family Sessions
-permalink: /family-sessions/
+title: Branding Sessions
+permalink: /branding-sessions/
 published: true
 
-slide1: /family-sessions/Family6.jpg
+slide1: /branding-sessions/Branding-1.jpg
 alt1: Slide 1
 
-slide2: /family-sessions/Family4.jpg
-alt2: Slide 2
-
-slide3: /family-sessions/Family3.jpg
-alt3: Slide 3
-
-slide4: /family-sessions/Family2.jpg
-alt4: Slide 4
-
-slide5: /family-sessions/Family5.jpg
-alt5: Slide 5
 ---
-Family Sessions are 60 minute sessions held at the location of your choice where I will capture a mixture of portraits and candid shots of your family together. Throughout the session I will be sure to capture various poses and individual personalities. These sessions are designed for families of up to 6 people, however more people can be included for an additional cost. Prints and products are sold a la carte so that you can order exactly what you need to decorate your home or gift away.
+Perfect for those who need monthly images for social media marketing content.
 
-The session fee is $175, which covers the photographer's time and talent, pre-session consulting, post editing, order fulfillment and include 10 digital images. Additional prints and products can be purchased. <a href="http://candidgiggles.com/pricing-information/">Click here</a> for the full price list. 
+Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience. 
+
+Together we will create a photography experience that will show off your personality, build trust with your audience, solidify you as a confident expert and help position you to grow your brand.
+
+The investment is $600 for three separate 30 minute on-location sessions and covers the photographer's time and talent, pre-session consulting, post editing, order fulfillment and include 10 digital images.
