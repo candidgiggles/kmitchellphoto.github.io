@@ -25,4 +25,4 @@ Create trustworthy visual images for your personal brand and business to market 
 
 Together we will create a photography experience that will show off your personality, build trust with your audience, solidify you as a confident expert and help position you to grow your brand.
 
-The investment is $600 for three separate 30 minute on-location sessions and covers the photographer's time and talent, pre-session consulting, post editing, order fulfillment and include 10 digital images.
+The investment is $600 for three separate 30 minute on-location sessions and covers the photographer's time and talent, pre-session consulting, post editing, order fulfillment and include 10 digital images per session.
