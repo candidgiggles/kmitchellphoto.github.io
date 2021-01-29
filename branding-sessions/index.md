@@ -19,7 +19,7 @@ Headshot sessions start at $200 and are on-location sessions that include 5 digi
 
 ## Branding Photography Sessions
 
-Perfect for creative professionals, entrepreneurs, and small business owners who need monthly images for social media marketing content.
+Perfect for creative professionals, entrepreneurs, and small business owners who need monthly images for web or social media marketing content.
 
 Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience. 
 
