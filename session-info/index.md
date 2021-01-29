@@ -14,23 +14,28 @@ img2: /senior-sessions/Senior1.jpg
 post2: Senior sessions are designed for high school seniors who want to show off their accomplishments with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session.
 link2: /senior-sessions/
 
-title3: Game Day Sessions
-img3: /game-day-sessions/Game7.jpg
-post3: Sit back and enjoy your child’s game while I do the hard work of capturing all the action and highlights. At Game Day Sessions I will photograph your child and their team interactions for the duration of the game.
-link3: /game-day-sessions/
+title3: Branding Photography Sessions
+img3: /branding-sessions/Branding-1.jpg
+post3: Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience.
+link3: /branding-sessions/
 
-title4: Event Photography
-img4: /event-photography/Event3.jpg
-post4: Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages.
-link4: /event-photography/
+title4: Game Day Sessions
+img4: /game-day-sessions/Game7.jpg
+post4: Sit back and enjoy your child’s game while I do the hard work of capturing all the action and highlights. At Game Day Sessions I will photograph your child and their team interactions for the duration of the game.
+link4: /game-day-sessions/
 
-title5: Memory Year Book
-img5: /memory-year-book/Memory1.jpg
-post5: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
-link5: /memory-year-book/
+title5: Event Photography
+img5: /event-photography/Event3.jpg
+post5: Candid Giggles Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages.
+link5: /event-photography/
 
-title6: Headshot Photography
-img6: /headshot-sessions/Headshots1.jpg
-post6: Headshot sessions are $175 for 30 minutes and include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also include a group shot, if desired. $20 per each additional person. Location can be outdoor, in office, or with a white or black background.
-link6: /portfolio/
+title6: Memory Year Book
+img6: /memory-year-book/Memory1.jpg
+post6: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
+link6: /memory-year-book/
+
+title7: Headshot Photography
+img7: /headshot-sessions/Headshots1.jpg
+post7: Headshot sessions are $175 for 30 minutes and include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also include a group shot, if desired. $20 per each additional person. Location can be outdoor, in office, or with a white or black background.
+link7: /portfolio/
 ---
