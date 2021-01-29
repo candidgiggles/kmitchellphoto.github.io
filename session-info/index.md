@@ -14,7 +14,7 @@ img2: /senior-sessions/Senior1.jpg
 post2: Senior sessions are designed for high school seniors who want to show off their accomplishments with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session.
 link2: /senior-sessions/
 
-title3: Branding Photography Sessions
+title3: Headshots and Branding Photography Sessions
 img3: /branding-sessions/Branding-1.jpg
 post3: Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience.
 link3: /branding-sessions/
@@ -34,8 +34,4 @@ img6: /memory-year-book/Memory1.jpg
 post6: A special package for 8th graders and high school seniors. Let me do the shutter snapping while you enjoy your son or daughter’s most memorable events of the school year. A “memory year book” is perfect for busy parents who want to save time, receive high quality images, and be captured in the memory as well.
 link6: /memory-year-book/
 
-title7: Headshot Photography
-img7: /headshot-sessions/Headshots1.jpg
-post7: Headshot sessions are $175 for 30 minutes and include 5 digital images. If needed for an office staff, the price includes up to 5 people (1 headshot pose each) and will also include a group shot, if desired. $20 per each additional person. Location can be outdoor, in office, or with a white or black background.
-link7: /portfolio/
 ---
