@@ -25,4 +25,4 @@ Family Lifestyle Sessions are 60 minute sessions held at the location of your ch
 
 The session fee is $225, which covers the photographer's time and talent, pre-session consulting, post editing, order fulfillment and include 20 digital images. Additional prints and products can be purchased. 
 
-If your photos will be used professionally (brand promo, blog/website, social media, modeling portfolio, linkedin, etc), please refer to [headshot and brand photography sessions](http://candidgiggles.com/branding-sessions/)
+If your photos will be used professionally (brand promo, blog/website, social media, modeling portfolio, linkedin, etc), please refer to [headshot and brand photography sessions](http://candidgiggles.com/branding-sessions/).
