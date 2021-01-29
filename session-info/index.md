@@ -14,7 +14,7 @@ img2: /senior-sessions/Senior1.jpg
 post2: Senior sessions are designed for high school seniors who want to show off their accomplishments with high-quality imagery. I will assist in choosing a location, planning outfits, designing your image displays, and customizing your ordering session.
 link2: /senior-sessions/
 
-title3: Headshots and Branding Photography Sessions
+title3: Headshots and Branding Photography
 img3: /branding-sessions/Branding-1.jpg
 post3: Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience.
 link3: /branding-sessions/
