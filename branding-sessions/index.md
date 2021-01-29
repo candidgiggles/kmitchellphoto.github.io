@@ -8,6 +8,8 @@ slide1: /branding-sessions/Branding-1.jpg
 alt1: Slide 1
 
 ---
+## Branding Photography Sessions
+
 Perfect for those who need monthly images for social media marketing content.
 
 Create trustworthy visual images for your personal brand and business to market and sell directly to your target audience. 
