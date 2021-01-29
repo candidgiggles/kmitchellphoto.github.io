@@ -10,6 +10,9 @@ alt1: Slide 1
 slide2: /branding-sessions/Branding-2.jpg
 alt2: Slide 2
 
+slide3: /branding-sessions/Branding-3.jpg
+alt3: Slide 3
+
 ---
 
 ## Headshot Photography Sessions
