@@ -19,7 +19,7 @@ Take a look at my [pinterest board](https://www.pinterest.com/kmitchell825/cloth
 
 WHERE SHOULD OUR SESSION TAKE PLACE? 
 
-I have many favorite parks in the south suburbs that I can recommend. You can take advantage of staying in your home and use a nearby park, backyard or your living room for your session. The goal is to capture the most wonderful memory of you and your family, not a great landscape anyway. It really helps if you go through our website and learn what setting attracts you the most and we can definitely discuss it when we book your session.
+I have many favorite parks in the south suburbs that I can recommend. You can take advantage of staying in your home and use a nearby park, backyard or your living room for your session. The goal is to capture the most wonderful memory of you and your family, not a great landscape anyway. It really helps if you go through our website and learn what setting attracts you the most and we can definitely discuss it when we book your session. Locations 25 miles or more outside of 60422 will incur an additional $50 travel fee.
 
 WHAT SHOULD WE BRING OR PREPARE FOR THE SESSION?
 
@@ -29,7 +29,7 @@ High school seniors are welcome to bring their cap & gowns and a change of cloth
 
 DO YOU OFFER ANY MINI SESSIONS?
 
-I offer very limited occasion mini sessions throughout the year. It is up to 20 minutes and has a particular theme or setting. They are announced via my [newsletter](http://mad.ly/signups/88580/join) or on my [Facebook page](https://www.facebook.com/CandidGiggles). Mini sessions are great to get quick updates of your growing child at a significantly low investment.
+I offer very limited occasion mini sessions throughout the year. It is up to 20 minutes and has a particular theme or setting. They are announced via my [Facebook page](https://www.facebook.com/CandidGiggles). Mini sessions are great to get quick updates of your growing child at a significantly low investment.
 
 HOW LONG DOES IT TAKE TO VIEW OUR IMAGES AFTER THE SESSION?
 
