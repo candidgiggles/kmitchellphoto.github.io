@@ -16,8 +16,8 @@ alt3: Slide 3
 slide4: /branding-sessions/Branding-4.jpg
 alt4: Slide 4
 
-slide4: /branding-sessions/Branding-5.jpg
-alt4: Slide 5
+slide5: /branding-sessions/Branding-5.jpg
+alt5: Slide 5
 
 ---
 
