@@ -15,9 +15,9 @@ Photos from the gallery may not be screen captured or photographed. You may shar
 
 Digital files are available to purchase with a licensing agreement. The images that are being provided to you are licensed to you for any reasonable personal purposes, including but not limited to: printing, copying, emailing, and web publishing. Your license does not include use that results in financial gain, including but not limited to: advertising, stock photography, print sale profits, or resale of any nature.
 
-Your purchase of the original files releases K. Mitchell Photography from any liability due to loss or damage of the images, and also releases K. Mitchell Photography from any obligation to maintain copies of any digital file, image, or photograph. You hereby grant to Candid Giggles Photography the right to use and publish images and photographs taken at your photography session to further promote its service, including portfolio, web site, display, advertisement, and editorial use. K. Mitchell Photography agrees to limit the use of these images and photographs to promotional use only.
+Your purchase of the original files releases K. Mitchell Photography from any liability due to loss or damage of the images, and also releases K. Mitchell Photography from any obligation to maintain copies of any digital file, image, or photograph. You hereby grant to K. Mitchell Photography the right to use and publish images and photographs taken at your photography session to further promote its service, including portfolio, web site, display, advertisement, and editorial use. K. Mitchell Photography agrees to limit the use of these images and photographs to promotional use only.
 
-Candid Giggles Photography may revoke this license at any time and for any reason. By using any of these images, you are agreeing to the above terms.
+K. Mitchell Photography may revoke this license at any time and for any reason. By using any of these images, you are agreeing to the above terms.
 
 Thank you for your understanding and support.
 
