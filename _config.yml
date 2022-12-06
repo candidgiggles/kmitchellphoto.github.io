@@ -5,7 +5,7 @@ facebook: http://facebook.com/candidgiggles
 instagram: https://www.instagram.com/candidgigglesphotography/
 phone: 708.824.8538
 description: > # this means to ignore newlines until "baseurl:"
-  Kimberly Mitchell of Candid Giggles Photography specializes in children, high school seniors, portraits and family lifestyle photography.
+  Kimberly Mitchell of K. Mitchell Photography specializes in high school seniors, events, sports, and lifestyle branding photography.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "candidgiggles.github.io" # the base hostname & protocol for your site
 
