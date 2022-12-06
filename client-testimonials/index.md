@@ -4,7 +4,7 @@ title: Client Testimonials
 permalink: /client-testimonials/
 published: true
 ---
-<p style="text-align:center;"><img src="https://raw.githubusercontent.com/candidgiggles/candidgiggles.github.io/master/img/HimaliTestimonial.jpg" style="min-width:300px;" width="50%" /></p>
+
 > Kimberly demonstrated top notch professionalism during our family photo shoot. I highly recommend Kim to take your photos!- Kalisha H., Flossmoor, IL
 
 > Our photoshoot was a success! Kimberly chose the perfect site and made my vision come to life. The service was excellent! I'm looking forward to her capturing our 10th Anniversary Celebration memories.- La'Sheah S., Richton Park, IL 
