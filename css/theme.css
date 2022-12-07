@@ -1472,6 +1472,10 @@ a:hover span {
     line-height: 0;
 }
 
+.logo_sect img {
+    height: 100px;	
+}
+
 .logo_sect .logo {
     display: inline-block;
     margin-right: 15px;
