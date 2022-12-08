@@ -109,10 +109,10 @@ zoom21: /portfolioHeadshotsbyKimberly/Badia-8.jpg
 alt21: 
 category21: headshots by kimberly
 
-thumb22: /portfolio/Family/FamilyThumbnails/Baptiste-15.jpg
-zoom22: /portfolio/Seniors/Baptiste-15.jpg
+thumb22: /portfolio/Seniors/SeniorThumbnails/Faith-1.jpg
+zoom22: /portfolio/Seniors/Faith.jpg
 alt22: 
-category22: family
+category22: seniors
 
 thumb23: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Bel Canto-5.jpg
 zoom23: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
