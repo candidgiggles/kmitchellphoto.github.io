@@ -74,10 +74,10 @@ zoom14: /portfolio/Family/Barone-15.jpg
 alt14: 
 category14: family
 
-thumb15: /portfolio/Toddlers/ToddlerThumbnails/Isabella-11.jpg
-zoom15: /portfolio/Toddlers/Isabella-11.jpg
+thumb15: /portfolio/Branding/BrandingThumbnails/Chantill-2.jpg
+zoom15: /portfolio/Branding/Chantill-3.jpg
 alt15: 
-category15: toddlers
+category15: branding
 
 thumb16: /portfolio/Events/EventThumbnails/IMG_3085.jpg
 zoom16: /portfolio/Events/IMG_3085.jpg
