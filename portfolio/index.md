@@ -9,10 +9,10 @@ zoom1: /portfolio/Seniors/Kyla.jpg
 alt1: 
 category1: seniors
 
-thumb2: /portfolio/Toddlers/ToddlerThumbnails/Parker-52.jpg
-zoom2: /portfolio/Toddlers/Parker-52.jpg
+thumb2: /portfolio/Branding/BrandingThumbnails/Chantill-1.jpg
+zoom2: /portfolio/Branding/Chantill.jpg
 alt2: 
-category2: toddlers
+category2: branding
 
 thumb3: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
 zoom3: /portfolio/Family/Jorie-30.jpg
