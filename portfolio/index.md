@@ -19,8 +19,8 @@ zoom3: /portfolio/Brandnig/Levy-1.jpg
 alt3: 
 category3: branding
 
-thumb4: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
-zoom4: /portfolio/Seniors/Shelby-33.jpg
+thumb4: /portfolio/Seniors/SeniorThumbnails/Milan-6.jpg
+zoom4: /portfolio/Seniors/Milan-6.jpg
 alt4: 
 category4: seniors
 
