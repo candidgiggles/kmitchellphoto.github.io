@@ -14,10 +14,10 @@ zoom2: /portfolio/Branding/Chantill.jpg
 alt2: 
 category2: branding
 
-thumb3: /portfolio/Family/FamilyThumbnails/Jorie-30.jpg
-zoom3: /portfolio/Family/Jorie-30.jpg
-alt3: Family
-category3: family
+thumb3: /portfolio/Branding/BrandingThumbnails/Levy-2.jpg
+zoom3: /portfolio/Brandnig/Levy-1.jpg
+alt3: 
+category3: branding
 
 thumb4: /portfolio/Seniors/SeniorThumbnails/Shelby-33.jpg
 zoom4: /portfolio/Seniors/Shelby-33.jpg
