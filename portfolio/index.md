@@ -49,10 +49,10 @@ zoom9: /portfolio/Seniors/Jaya Prom-23.jpg
 alt9: 
 category9: seniors
 
-thumb10: /portfolio/Family/FamilyThumbnails/Bates-34.jpg
-zoom10: /portfolio/Family/Bates-34.jpg
+thumb10: /portfolio/Branding/BrandingThumbnails/Renee-1.jpg
+zoom10: /portfolio/Branding/Renee.jpg
 alt10: 
-category10: family
+category10: branding
 
 thumb11: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
 zoom11: /portfolio/Family/PraiseandWorship2.jpg
