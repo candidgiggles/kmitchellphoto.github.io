@@ -84,10 +84,10 @@ zoom16: /portfolio/Events/IMG_3085.jpg
 alt16: 
 category16: events
 
-thumb17: /portfolio/Toddlers/ToddlerThumbnails/Teddy-22.jpg
-zoom17: /portfolio/Toddlers/Teddy-22.jpg
+thumb17: /portfolio/Events/EventThumbnails/Events.jpg
+zoom17: /portfolio/Events/Events.jpg
 alt17: 
-category17: toddlers
+category17: events
 
 thumb18: /portfolio/Events/EventThumbnails/Sydney-36.jpg
 zoom18: /portfolio/Events/Sydney-36.jpg
