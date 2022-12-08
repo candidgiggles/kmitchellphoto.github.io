@@ -9,10 +9,10 @@ zoom1: /portfolio/Seniors/Kyla.jpg
 alt1: 
 category1: seniors
 
-thumb2: /portfolio/Branding/BrandingThumbnails/Chantill-1.jpg
-zoom2: /portfolio/Branding/Chantill.jpg
+thumb2: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom2: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt2: 
-category2: branding
+category2: headshots by kimberly
 
 thumb3: /portfolio/Branding/BrandingThumbnails/Levy-2.jpg
 zoom3: /portfolio/Branding/Levy-1.jpg
@@ -104,10 +104,10 @@ zoom20: /portfolio/Seniors/Jaya-20.jpg
 alt20: 
 category20: seniors
 
-thumb21: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
-zoom21: /portfolioHeadshotsbyKimberly/Badia-8.jpg
+thumb21: /portfolio/Branding/BrandingThumbnails/Chantill-1.jpg
+zoom21: /portfolio/Branding/Chantill.jpg
 alt21: 
-category21: headshots by kimberly
+category21: branding
 
 thumb22: /portfolio/Seniors/SeniorThumbnails/Faith-1.jpg
 zoom22: /portfolio/Seniors/Faith.jpg
