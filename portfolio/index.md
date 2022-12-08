@@ -69,10 +69,10 @@ zoom13: /portfolio/Seniors/Carter-46.jpg
 alt13: 
 category13: seniors
 
-thumb14: /portfolio/Family/FamilyThumbnails/Barone-15.jpg
-zoom14: /portfolio/Family/Barone-15.jpg
+thumb14: /portfolio/Branding/BrandingThumbnails/Levy-30-1.jpg
+zoom14: /portfolio/Branding/Levy-30.jpg
 alt14: 
-category14: family
+category14: branding
 
 thumb15: /portfolio/Branding/BrandingThumbnails/Chantill-2.jpg
 zoom15: /portfolio/Branding/Chantill-3.jpg
