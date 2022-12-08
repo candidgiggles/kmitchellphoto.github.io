@@ -119,10 +119,10 @@ zoom23: /portfolio/HeadshotsbyKimberly/Bel Canto-5.jpg
 alt23: 
 category23: headshots by kimberly
 
-thumb24: /portfolio/Family/FamilyThumbnails/Ross-19.jpg
-zoom24: /portfolio/Family/Ross-19.jpg
+thumb24: /portfolio/Seniors/SeniorThumbnails/Liam-51.jpg
+zoom24: /portfolio/Senior/Liam-51.jpg
 alt24: 
-category24: family
+category24: seniors
 
 thumb25: /portfolio/Family/FamilyThumbnails/Ari.jpg
 zoom25: /portfolio/Family/Ari.jpg
