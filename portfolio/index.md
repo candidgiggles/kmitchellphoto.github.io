@@ -15,7 +15,7 @@ alt2:
 category2: branding
 
 thumb3: /portfolio/Branding/BrandingThumbnails/Levy-2.jpg
-zoom3: /portfolio/Brandnig/Levy-1.jpg
+zoom3: /portfolio/Branding/Levy-1.jpg
 alt3: 
 category3: branding
 
