@@ -9,10 +9,10 @@ zoom1: /portfolio/Seniors/Kyla.jpg
 alt1: 
 category1: seniors
 
-thumb2: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
-zoom2: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
+thumb2: /portfolio/Seniors/SeniorThumbnails/AlexGrad-29.jpg
+zoom2: /portfolio//Seniors/AlexGrad-29.jpg
 alt2: 
-category2: headshots by kimberly
+category2: seniors
 
 thumb3: /portfolio/Branding/BrandingThumbnails/Levy-2.jpg
 zoom3: /portfolio/Branding/Levy-1.jpg
@@ -29,10 +29,10 @@ zoom5: /portfolio/Events/Yolanda-39.jpg
 alt5: 
 category5: events
 
-thumb6: /portfolio/Seniors/SeniorThumbnails/AlexGrad-29.jpg
-zoom6: /portfolio//Seniors/AlexGrad-29.jpg
+thumb6: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom6: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt6: 
-category6: seniors
+category6: headshots by kimberly
 
 thumb7: /portfolio/Events/EventThumbnails/Winston-8.jpg
 zoom7: /portfolio/Events/Winston-8.jpg
