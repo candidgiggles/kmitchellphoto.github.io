@@ -190,7 +190,7 @@ alt37:
 category37: headshots by kimberly
 
 thumb38: /portfolio/Events/EventThumbnails/Prom-15.jpg
-zoom38: /portfolio/Events/EventThumbnails/Prom-15.jpg
+zoom38: /portfolio/Events/Prom-15.jpg
 alt38: 
 category38: events
 
