@@ -40,8 +40,8 @@ $700
 - Personalized Mobile App 
 
 <br>
-<a href="http://candidgiggles.com/contact/">Contact me</a> today to book your event! 
+<a href="https://kmitchellphoto.com/contact/>Contact me</a> today to book your event! 
 
 > We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL
 
-*Candid Giggles Photography does not offer wedding photography services, however we will gladly photograph engagement parties and bridal showers. Locations 25 miles or more outside of 60422 will incur an additional $50 travel fee.
+*K. Mitchell Photography does not offer wedding photography services, however we will gladly photograph engagement parties and bridal showers. Locations 25 miles or more outside of 60422 will incur an additional $50 travel fee.
