@@ -54,11 +54,6 @@ zoom10: /portfolio/Branding/Renee.jpg
 alt10: 
 category10: branding
 
-thumb11: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
-zoom11: /portfolio/Family/PraiseandWorship2.jpg
-alt11: 
-category11: family
-
 thumb12: /portfolio/Seniors/SeniorThumbnails/Jade-70.jpg
 zoom12: /portfolio/Seniors/Jade-70.jpg
 alt12: 
@@ -139,10 +134,10 @@ zoom27: /portfolio/Events/Nya-41.jpg
 alt27: 
 category27: events
 
-thumb28: /portfolio/Family/FamilyThumbnails/Goeld-38.jpg
-zoom28: /portfolio/Family/Goeld-38.jpg
+thumb28: /portfolio/Seniors/SeniorThumbnails/Muhammad-26.jpg
+zoom28: /portfolio/Seniors/Muhammad-26.jpg
 alt28: 
-category28: family
+category28: seniors
 
 thumb29: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
 zoom29: /portfolio/Family/Bates-58.jpg
@@ -174,8 +169,8 @@ zoom34: /portfolio/Seniors/TaiylarBall-8.jpg
 alt34: 
 category34: seniors
 
-thumb35: /portfolio/Family/FamilyThumbnails/Beal-30.jpg
-zoom35: /portfolio/Family/Beal-30.jpg
+thumb35: /portfolio/Family/FamilyThumbnails/PraiseandWorship2.jpg
+zoom35: /portfolio/Family/PraiseandWorship2.jpg
 alt35: 
 category35: family
 
