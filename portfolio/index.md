@@ -219,10 +219,10 @@ zoom43: /portfolio/Toddlers/Phoebe-1.jpg
 alt43: 
 category43: toddlers 
 
-thumb44: /portfolio/Toddlers/ToddlerThumbnails/Teddy-6.jpg
-zoom44: /portfolio/Toddlers/Teddy-6.jpg
+thumb44: /portfolio/Seniors/SeniorThumbnails/MitchellProm-79.jpg
+zoom44: /portfolio/Seniors/MitchellProm-79.jpg
 alt44: 
-category44: toddlers
+category44: seniors
 
 thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
 zoom45: /portfolio/Seniors/Jeremy-14.jpg
