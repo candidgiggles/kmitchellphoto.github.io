@@ -44,10 +44,10 @@ zoom8: /portfolio/Events/Winston-8.jpg
 alt8: 
 category8: events
 
-thumb9: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
-zoom9: /portfolio/Seniors/Maya-144.jpg
+thumb9: /portfolio/Branding/BrandingThumbnails/Ray.jpg
+zoom9: /portfolio/Branding/Ray.jpg
 alt9: 
-category9: seniors
+category9: branding
 
 thumb10: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Judge-11.jpg
 zoom10: /portfolio/HeadshotsbyKimberly/Judge-11.jpg
@@ -199,8 +199,8 @@ zoom39: /portfolio/Seniors/Chloe-16.jpg
 alt39: 
 category39: seniors
 
-thumb41: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
-zoom41: /portfolio/Seniors/Graduation-7.jpg
+thumb41: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
+zoom41: /portfolio/Seniors/Maya-144.jpg
 alt41: 
 category41: seniors
 
@@ -219,9 +219,14 @@ zoom44: /portfolio/Branding/Renee.jpg
 alt44: 
 category44: branding
 
-thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom45: /portfolio/Seniors/Jeremy-14.jpg
+thumb45: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
+zoom45: /portfolio/Seniors/Graduation-7.jpg
 alt45: 
 category45: seniors
+
+thumb46: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom46: /portfolio/Seniors/Jeremy-14.jpg
+alt46: 
+category46: seniors
 
 ---
