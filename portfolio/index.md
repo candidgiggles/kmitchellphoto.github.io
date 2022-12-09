@@ -124,10 +124,10 @@ zoom24: /portfolio/Senior/Liam-51.jpg
 alt24: 
 category24: seniors
 
-thumb25: /portfolio/Family/FamilyThumbnails/Ari.jpg
-zoom25: /portfolio/Family/Ari.jpg
+thumb25: /portfolio/Seniors/Seniorhumbnails/MitchellProm-21.jpg
+zoom25: /portfolio/Seniors/MitchellProm-21.jpg
 alt25: 
-category25: family
+category25: seniors
 
 thumb26: /portfolio/Seniors/SeniorThumbnails/Aria-41.jpg
 zoom26: /portfolio/Seniors/Aria-41.jpg
