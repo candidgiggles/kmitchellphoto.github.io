@@ -144,10 +144,10 @@ zoom28: /portfolio/Seniors/Muhammad-26.jpg
 alt28: 
 category28: seniors
 
-thumb29: /portfolio/Family/FamilyThumbnails/Bates-58.jpg
-zoom29: /portfolio/Family/Bates-58.jpg
+thumb29: /portfolio/Events/EventThumbnails/Tonika-71.jpg
+zoom29: /portfolio/Events/Tonika-71.jpg
 alt29: 
-category29: family
+category29: events
 
 thumb30: /portfolio/Events/EventThumbnails/Prom-103.jpg
 zoom30: /portfolio/Events/Prom-103.jpg
