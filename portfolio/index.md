@@ -9,8 +9,8 @@ zoom1: /portfolio/Seniors/Kyla.jpg
 alt1: 
 category1: seniors
 
-thumb2: /portfolio/Seniors/SeniorThumbnails/AlexGrad-29.jpg
-zoom2: /portfolio//Seniors/AlexGrad-29.jpg
+thumb2: /portfolio/Seniors/SeniorThumbnails/Muhammad-41.jpg
+zoom2: /portfolio/Seniors/Muhammad-41.jpg
 alt2: 
 category2: seniors
 
@@ -154,10 +154,10 @@ zoom31: /portfolio/Seniors/Grad-62.jpg
 alt31: 
 category31: seniors
 
-thumb32: /portfolio/Toddlers/ToddlerThumbnails/Talley-2.jpg
-zoom32: /portfolio/Toddlers/Talley-2.jpg
+thumb32: /portfolio/Seniors/SeniorThumbnails/AlexGrad-29.jpg
+zoom32: /portfolio//Seniors/AlexGrad-29.jpg
 alt32: 
-category32: toddlers
+category32: seniors
 
 thumb33: /portfolio/Events/EventThumbnails/Party-14.jpg
 zoom33: /portfolio/Events/Party-14.jpg
