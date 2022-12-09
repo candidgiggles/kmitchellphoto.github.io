@@ -49,10 +49,10 @@ zoom9: /portfolio/Seniors/Maya-144.jpg
 alt9: 
 category9: seniors
 
-thumb10: /portfolio/Branding/BrandingThumbnails/Renee-1.jpg
-zoom10: /portfolio/Branding/Renee.jpg
+thumb10: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Judge-11.jpg
+zoom10: /portfolio/HeadshotsbyKimberly/Judge-11.jpg
 alt10: 
-category10: branding
+category10: headshots by kimberly
 
 thumb11: /portfolio/Seniors/SeniorThumbnails/MitchellProm-79.jpg
 zoom11: /portfolio/Seniors/MitchellProm-79.jpg
@@ -214,14 +214,14 @@ zoom43: /portfolio/Seniors/Jaya Prom-23.jpg
 alt43: 
 category43: seniors
 
-thumb44: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom44: /portfolio/Seniors/Jeremy-14.jpg
+thumb44: /portfolio/Branding/BrandingThumbnails/Renee-1.jpg
+zoom44: /portfolio/Branding/Renee.jpg
 alt44: 
-category44: seniors
+category44: branding
 
-thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Judge-11.jpg
-zoom45: /portfolio/HeadshotsbyKimberly/Judge-11.jpg
+thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom45: /portfolio/Seniors/Jeremy-14.jpg
 alt45: 
-category45: headshots by kimberly
+category45: seniors
 
 ---
