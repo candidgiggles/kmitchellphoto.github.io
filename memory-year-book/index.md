@@ -32,6 +32,6 @@ Includes:
 - A shareable mobile app of selected photos
 - Private online gallery for purchasing prints a la carte 
 					
-Additional hours will be billed at $100/hour. A 50% deposit is required at booking.
+Additional hours will be billed at $125/hour. A 50% deposit is required at booking.
 
 > "Looking at photos taken before my son's Senior Prom put a great ending on a wonderful Mother's Day! Thank you Kimberly- you continue to surprise me with the best things a mother could ever have...memories of special moments with her kids. You're the best!!!"- Lori J., Olympia Fields, IL
