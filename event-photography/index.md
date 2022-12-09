@@ -40,7 +40,7 @@ $700
 - Personalized Mobile App 
 
 <br>
-[Contact me](http://kmitchellphoto.com/branding-sessions/) today to book your event! 
+[Contact me](http://kmitchellphoto.com/contact/) today to book your event! 
 
 > We received Lauren's "Sweet 16" memory book today and the first word that comes to mind is breathless! She loves it! You captured every intricate object which will allow us to forever relive the magical moments made on that very special night."- Lori J., Olympia Fields, IL
 
