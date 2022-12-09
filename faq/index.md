@@ -7,7 +7,7 @@ published: true
 
 WHAT IS THE SESSION FEE?
 
-The Session Fee covers the photographer's time and talent, pre-session consulting, post-editing, portrait presentation, design consulting, and order fulfillment. It does not include any prints or digital files. Click [here](http://candidgiggles.github.io/pricing-information/) for a full print and product price list.
+The Session Fee covers the photographer's time and talent, pre-session consulting, post-editing, portrait presentation, design consulting, and order fulfillment. It does not include any prints or digital files. Click [here] for a full print and product price list.
 
 WHAT SHOULD WE WEAR?
 
@@ -27,18 +27,10 @@ Whatever means a lot to you and you want to photograph with is a must. From a ha
 
 High school seniors are welcome to bring their cap & gowns and a change of clothes if they wish. Also they are encouraged to bring any sports equiment, musical instruments, letter jackets, or other high school memorabilia to show off their accomplishments from the year. 
 
-DO YOU OFFER ANY MINI SESSIONS?
-
-I offer very limited occasion mini sessions throughout the year. It is up to 20 minutes and has a particular theme or setting. They are announced via my [Facebook page](https://www.facebook.com/CandidGiggles). Mini sessions are great to get quick updates of your growing child at a significantly low investment.
-
 HOW LONG DOES IT TAKE TO VIEW OUR IMAGES AFTER THE SESSION?
 
 Up to 2 weeks. I use an online ordering system that allows you to easily customize your image order from the comfort of own home with an extended ordering period of 14 days to ensure that you are able to make the best choice in planning your image displays. Whether you are planning to accent your walls or shelves with prints, display a coffee table book or keep digital files for archiving- this experience is simplicity at its best!
  
 HOW MANY IMAGES WILL I SEE FROM MY SESSION?
 
-You will view at least 15 images for a mini-session and at least 20 images for a Family Session. Event photos will range from 75-150 photos depending on the event.
-
-DO YOU HAVE A  REFERRAL PROGRAM?
-
-Yes! I not only very appreciate my clients’ word of mouth referrals to friends, I also graciously thank my clients for sharing their positive experiences. When you tell your friends about us and they book a session, you will automatically receive 20% off of your next session towards the session fees or products.
+You will view at least 20 images for a One Hour Session. Event photos will range from 75-150 photos depending on the event.
