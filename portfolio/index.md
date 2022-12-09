@@ -124,7 +124,7 @@ zoom24: /portfolio/Senior/Liam-51.jpg
 alt24: 
 category24: seniors
 
-thumb25: /portfolio/Seniors/Seniorhumbnails/MitchellProm-21.jpg
+thumb25: /portfolio/Seniors/SeniorThumbnails/MitchellProm-21.jpg
 zoom25: /portfolio/Seniors/MitchellProm-21.jpg
 alt25: 
 category25: seniors
