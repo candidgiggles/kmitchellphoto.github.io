@@ -54,6 +54,11 @@ zoom10: /portfolio/Branding/Renee.jpg
 alt10: 
 category10: branding
 
+thumb11: /portfolio/Seniors/SeniorThumbnails/MitchellProm-79.jpg
+zoom11: /portfolio/Seniors/MitchellProm-79.jpg
+alt11: 
+category11: events
+
 thumb12: /portfolio/Seniors/SeniorThumbnails/Jade-70.jpg
 zoom12: /portfolio/Seniors/Jade-70.jpg
 alt12: 
@@ -209,19 +214,9 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/Toddlers/ToddlerThumbnails/Phoebe-1.jpg
-zoom43: /portfolio/Toddlers/Phoebe-1.jpg
+thumb43: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom43: /portfolio/Seniors/Jeremy-14.jpg
 alt43: 
-category43: toddlers 
-
-thumb44: /portfolio/Seniors/SeniorThumbnails/MitchellProm-79.jpg
-zoom44: /portfolio/Seniors/MitchellProm-79.jpg
-alt44: 
-category44: events
-
-thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom45: /portfolio/Seniors/Jeremy-14.jpg
-alt45: 
-category45: seniors
+category43: seniors
 
 ---
