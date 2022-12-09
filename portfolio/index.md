@@ -219,4 +219,9 @@ zoom44: /portfolio/Seniors/Jeremy-14.jpg
 alt44: 
 category44: seniors
 
+thumb45: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Judge-11.jpg
+zoom45: /portfolio/HeadshotsbyKimberly/Judge-11.jpg
+alt45: 
+category45: headshots by kimberly
+
 ---
