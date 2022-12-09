@@ -229,4 +229,9 @@ zoom46: /portfolio/Seniors/Jeremy-14.jpg
 alt46: 
 category46: seniors
 
+thumb47: /portfolio/Events/EventThumbnails/Yolanda-6.jpg
+zoom47: /portfolio/Events/Yolanda-6.jpg
+alt47: 
+category47: events
+
 ---
