@@ -222,7 +222,7 @@ category43: toddlers
 thumb44: /portfolio/Seniors/SeniorThumbnails/MitchellProm-79.jpg
 zoom44: /portfolio/Seniors/MitchellProm-79.jpg
 alt44: 
-category44: seniors
+category44: events
 
 thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
 zoom45: /portfolio/Seniors/Jeremy-14.jpg
