@@ -29,23 +29,23 @@ zoom5: /portfolio/Events/Yolanda-39.jpg
 alt5: 
 category5: events
 
-thumb6: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
-zoom6: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
+thumb6: /portfolio/Seniors/SeniorThumbnails/Nya-19.jpg
+zoom6: /portfolio/Seniors/Nya-19.jpg
 alt6: 
-category6: headshots by kimberly
+category6: seniors
 
-thumb7: /portfolio/Events/EventThumbnails/Winston-8.jpg
-zoom7: /portfolio/Events/Winston-8.jpg
+thumb7: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Badia-8.jpg
+zoom7: /portfolio/HeadshotsbyKimberly/Badia-8.jpg
 alt7: 
-category7: events
+category7: headshots by kimberly
 
-thumb8: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
-zoom8: /portfolio/Seniors/Maya-144.jpg
+thumb8: /portfolio/Events/EventThumbnails/Winston-8.jpg
+zoom8: /portfolio/Events/Winston-8.jpg
 alt8: 
-category8: seniors
+category8: events
 
-thumb9: /portfolio/Seniors/SeniorThumbnails/Jaya Prom-23.jpg
-zoom9: /portfolio/Seniors/Jaya Prom-23.jpg
+thumb9: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
+zoom9: /portfolio/Seniors/Maya-144.jpg
 alt9: 
 category9: seniors
 
@@ -199,11 +199,6 @@ zoom39: /portfolio/Seniors/Chloe-16.jpg
 alt39: 
 category39: seniors
 
-thumb40: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/Elias-20.jpg
-zoom40: /portfolio/HeadshotsbyKimberly/Elias-20.jpg
-alt40: 
-category40: headshots by kimberly
-
 thumb41: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
 zoom41: /portfolio/Seniors/Graduation-7.jpg
 alt41: 
@@ -214,9 +209,14 @@ zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt42: 
 category42: headshots by kimberly
 
-thumb43: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom43: /portfolio/Seniors/Jeremy-14.jpg
+thumb43: /portfolio/Seniors/SeniorThumbnails/Jaya Prom-23.jpg
+zoom43: /portfolio/Seniors/Jaya Prom-23.jpg
 alt43: 
 category43: seniors
+
+thumb44: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom44: /portfolio/Seniors/Jeremy-14.jpg
+alt44: 
+category44: seniors
 
 ---
