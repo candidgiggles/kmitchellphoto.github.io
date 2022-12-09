@@ -234,4 +234,9 @@ zoom47: /portfolio/Events/Yolanda-6.jpg
 alt47: 
 category47: events
 
+thumb48: /portfolio/Seniors/SeniorThumbnails/JJ-53.jpg
+zoom48: /portfolio/Seniors/JJ-53.jpg
+alt48: 
+category48: seniors
+
 ---
