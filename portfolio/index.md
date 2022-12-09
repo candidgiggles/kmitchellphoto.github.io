@@ -109,8 +109,8 @@ zoom21: /portfolio/Branding/Chantill.jpg
 alt21: 
 category21: branding
 
-thumb22: /portfolio/Seniors/SeniorThumbnails/Faith-1.jpg
-zoom22: /portfolio/Seniors/Faith.jpg
+thumb22: /portfolio/Seniors/SeniorThumbnails/JJ-53.jpg
+zoom22: /portfolio/Seniors/JJ-53.jpg
 alt22: 
 category22: seniors
 
@@ -234,8 +234,8 @@ zoom47: /portfolio/Events/Yolanda-6.jpg
 alt47: 
 category47: events
 
-thumb48: /portfolio/Seniors/SeniorThumbnails/JJ-53.jpg
-zoom48: /portfolio/Seniors/JJ-53.jpg
+thumb48: /portfolio/Seniors/SeniorThumbnails/Faith.jpg
+zoom48: /portfolio/Seniors/Faith.jpg
 alt48: 
 category48: seniors
 
