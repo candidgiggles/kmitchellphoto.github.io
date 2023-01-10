@@ -199,44 +199,44 @@ zoom39: /portfolio/Seniors/Chloe-16.jpg
 alt39: 
 category39: seniors
 
-thumb41: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
-zoom41: /portfolio/Seniors/Maya-144.jpg
+thumb40: /portfolio/Seniors/SeniorThumbnails/Maya-144.jpg
+zoom40: /portfolio/Seniors/Maya-144.jpg
+alt40: 
+category40: seniors
+
+thumb41: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
+zoom41: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
 alt41: 
-category41: seniors
+category41: headshots by kimberly
 
-thumb42: /portfolio/HeadshotsbyKimberly/HeadshotThumbnails/CLG-4.jpg
-zoom42: /portfolio/HeadshotsbyKimberly/CLG-4.jpg
+thumb42: /portfolio/Seniors/SeniorThumbnails/Jaya Prom-23.jpg
+zoom42: /portfolio/Seniors/Jaya Prom-23.jpg
 alt42: 
-category42: headshots by kimberly
+category42: seniors
 
-thumb43: /portfolio/Seniors/SeniorThumbnails/Jaya Prom-23.jpg
-zoom43: /portfolio/Seniors/Jaya Prom-23.jpg
+thumb43: /portfolio/Branding/BrandingThumbnails/Renee-1.jpg
+zoom43: /portfolio/Branding/Renee.jpg
 alt43: 
-category43: seniors
+category43: branding
 
-thumb44: /portfolio/Branding/BrandingThumbnails/Renee-1.jpg
-zoom44: /portfolio/Branding/Renee.jpg
+thumb44: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
+zoom44: /portfolio/Seniors/Graduation-7.jpg
 alt44: 
-category44: branding
+category44: seniors
 
-thumb45: /portfolio/Seniors/SeniorThumbnails/Graduation-7.jpg
-zoom45: /portfolio/Seniors/Graduation-7.jpg
+thumb45: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
+zoom45: /portfolio/Seniors/Jeremy-14.jpg
 alt45: 
 category45: seniors
 
-thumb46: /portfolio/Seniors/SeniorThumbnails/Jeremy-14.jpg
-zoom46: /portfolio/Seniors/Jeremy-14.jpg
+thumb46: /portfolio/Events/EventThumbnails/Yolanda-6.jpg
+zoom46: /portfolio/Events/Yolanda-6.jpg
 alt46: 
-category46: seniors
+category46: events
 
-thumb47: /portfolio/Events/EventThumbnails/Yolanda-6.jpg
-zoom47: /portfolio/Events/Yolanda-6.jpg
+thumb47: /portfolio/Seniors/SeniorThumbnails/Faith-1.jpg
+zoom47: /portfolio/Seniors/Faith.jpg
 alt47: 
-category47: events
-
-thumb48: /portfolio/Seniors/SeniorThumbnails/Faith-1.jpg
-zoom48: /portfolio/Seniors/Faith.jpg
-alt48: 
-category48: seniors
+category47: seniors
 
 ---
