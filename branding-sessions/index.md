@@ -23,7 +23,7 @@ alt5: Slide 5
 
 ## Headshot Photography Sessions
 
-Headshot sessions start at $200 and are on-location sessions that include 5 digital images. The location can be outdoors, in office, or with a white or black backdrop. Final costs depend on the number of persons and length of the session.
+Headshot sessions start at $200 and are on-location sessions that include 5 digital images. The location can be outdoors, in office, or with a white or black backdrop. Final cost depends on the number of persons and length of the session.
 
 
 ## Branding Photography Sessions
