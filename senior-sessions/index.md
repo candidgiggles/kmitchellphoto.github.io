@@ -20,6 +20,6 @@ Senior sessions are designed for high school or college seniors who want to show
 Seniors are welcome to bring their cap & gowns and a change of clothes if they wish. Also they are encouraged to bring any sports equiment, musical instruments, letter jackets, or other high school memorabilia to show off their accomplishments from the year.
 
 ### Senior Session
-$300 for a one hour session at the location of your choice and include 20 digital images. Additional prints and products can be purchased. If more than one hour is needed, please consider a <a href="https://kmitchellphoto.com/memory-year-book/" target="_blank">Memory Year Book Package</a>.
+$300 for a one hour session at the location of your choice and include at least 20 digital images. Additional prints and products can be purchased. If more than one hour is needed, please consider a <a href="https://kmitchellphoto.com/memory-year-book/" target="_blank">Memory Year Book Package</a>.
 
 ---
