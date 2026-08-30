@@ -18,25 +18,25 @@ alt5: Slide 5
 K. Mitchell Photography offers event photography coverage for events up to 4 hours. Every detail will be captured- from the cake to the smiling faces of your guests. The perfect way to remember your special event is with a custom photo book, which is included in two of the three packages offered. Don't see a package that fits your needs? <a href="http://kmitchellphoto.com/contact/">Contact me</a> to discuss creating a cutom package for your event. 
 
 ### Party Package
-$425
+$450
 
 - 2 Hours of Event Photography
 - Digital File Collection
-- Add an 8x8 Custom Photo Book for an additional $100
+- Add an 8x8 Custom Photo Book for an additional $150
 
 ### Memory Package
-$550
+$600
 
 - 3 Hours of Event Photography
 - Digital File Collection
-- Add an 8x8 Custom Photo Book for an additional $100
+- Add an 8x8 Custom Photo Book for an additional $150
 
 ### Celebration Package
 $750
 
 - 4 Hour Event Photography
 - Digital File Collection
-- 8x8 Custom Photo Book
+- Add an 8x8 Custom Photo Book for an additional $150
 - Personalized Mobile App 
 
 <br>
